@@ -1,0 +1,12 @@
+{
+  "timestamp": "20250827_160009",
+  "parameters": {
+    "keywords": "cattle",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 100,
+    "score_popular": 3,
+    "artist_score": 8,
+    "order": "bestmatch"
+  }
+}

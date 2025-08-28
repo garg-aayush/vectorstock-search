@@ -1,0 +1,12 @@
+{
+  "timestamp": "20250827_160400",
+  "parameters": {
+    "keywords": "Cattle",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 100,
+    "color": "#FF0000",
+    "color_threshold": 3,
+    "order": "bestmatch"
+  }
+}

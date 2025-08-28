@@ -1,0 +1,65 @@
+{
+  "timestamp": "20250827_160208",
+  "query": "red cattle",
+  "parameters_used": {
+    "keywords": "red cattle",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 100,
+    "color": "#FF1000",
+    "color_threshold": 6,
+    "score_popular": 7,
+    "artist_score": 8,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 1678949,
+        "title": "Beef Meat Illustration",
+        "description": "A vibrant illustration depicting beef meat, featuring a stylized bull head and emphasizing a red color scheme. Suitable for food-related branding or culinary themes.",
+        "license": "expanded",
+        "artist": "Tribaliumvs",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 244,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/89/49/beef-meat-illustration-vector-1678949.jpg"
+          },
+          "large": {
+            "width": 487,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/89/49/beef-meat-illustration-vector-1678949.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 57673920,
+        "title": "classic cattle livestock on road sign",
+        "description": "classic cattle cows livestock on road sign in white red triangle vector illustration isolated on transparent background",
+        "license": "expanded",
+        "artist": "MartyInkTank",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/39/20/classic-cattle-livestock-on-road-sign-vector-57673920.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/39/20/classic-cattle-livestock-on-road-sign-vector-57673920.jpg"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "page": 1,
+    "pages": 1
+  }
+}

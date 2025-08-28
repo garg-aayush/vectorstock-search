@@ -1,0 +1,38 @@
+{
+    "name": "VectorStock Dashboard",
+    "description": "Interactive dashboard for VectorStock search results",
+    "dockerImage": "thebigpanda/vectorstock-dashboard:latest",
+    "volumeInGb": 10,
+    "containerDiskInGb": 10,
+    "env": [
+        {
+            "key": "STREAMLIT_SERVER_HEADLESS",
+            "value": "true"
+        },
+        {
+            "key": "STREAMLIT_SERVER_PORT",
+            "value": "8501"
+        },
+        {
+            "key": "STREAMLIT_SERVER_ADDRESS",
+            "value": "0.0.0.0"
+        },
+        {
+            "key": "STREAMLIT_BROWSER_GATHER_USAGE_STATS",
+            "value": "false"
+        }
+    ],
+    "ports": "8501/http",
+    "dockerArgs": "",
+    "imageName": "vectorstock-dashboard",
+    "gpuTypeId": null,
+    "cloudType": "SECURE",
+    "supportPublicIp": true,
+    "startJupyter": false,
+    "startSsh": true,
+    "volumeMountPath": "/workspace",
+    "minVcpuCount": 2,
+    "minMemoryInGb": 4,
+    "minGpuCount": 0,
+    "note": "This is a public dashboard - no authentication required"
+}

@@ -1,0 +1,17 @@
+{
+  "timestamp": "20250827_141254",
+  "query": "cattle",
+  "parameters_used": {
+    "keywords": "cattle",
+    "category": "beauty-fashion",
+    "page": 3,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 127,
+    "page": 3,
+    "pages": 2
+  }
+}

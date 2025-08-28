@@ -1,0 +1,5 @@
+{
+  "timestamp": "20250827_160218",
+  "url": "https://api.vectorstock.com/p1/search?keywords=red cattle&page=1&object_count_min=1&object_count_max=100&color=#FF1000&color_threshold=8&score_popular=7&artist_score=8&order=bestmatch",
+  "method": "GET"
+}

@@ -1,0 +1,1955 @@
+{
+  "timestamp": "20250827_160106",
+  "query": "cattle",
+  "parameters_used": {
+    "keywords": "cattle",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 100,
+    "color": "#FF1000",
+    "color_threshold": 3,
+    "score_popular": 3,
+    "artist_score": 8,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 42474783,
+        "title": "Colorful Highland Cow Portrait",
+        "description": "Vibrant abstract painting of a highland cow head, showcasing a rainbow of colors. A striking and playful depiction of this iconic Scottish breed.",
+        "license": "expanded",
+        "artist": "LiliiaP",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 294,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/47/83/colorful-highland-cow-portrait-vector-42474783.jpg"
+          },
+          "large": {
+            "width": 587,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/47/83/colorful-highland-cow-portrait-vector-42474783.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1678949,
+        "title": "Beef Meat Illustration",
+        "description": "A vibrant illustration depicting beef meat, featuring a stylized bull head and emphasizing a red color scheme. Suitable for food-related branding or culinary themes.",
+        "license": "expanded",
+        "artist": "Tribaliumvs",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 244,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/89/49/beef-meat-illustration-vector-1678949.jpg"
+          },
+          "large": {
+            "width": 487,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/89/49/beef-meat-illustration-vector-1678949.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 11231155,
+        "title": "Bull Icon - Farm Animal",
+        "description": "A detailed icon depicting a bull, representing strength, power, and rural life. Features a classic horned design suitable for farm-related applications.",
+        "license": "expanded",
+        "artist": "Tribaliumvs",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/11/55/bull-icon-farm-animal-vector-11231155.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/11/55/bull-icon-farm-animal-vector-11231155.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 26283538,
+        "title": "Lone Cowboy in the Desert",
+        "description": "A vibrant cartoon-style depiction of a cowboy riding a horse across a vast desert landscape. Majestic mountains and a soaring eagle complete this captivating scene. Evokes a classic Western aesthetic.",
+        "license": "expanded",
+        "artist": "MaryDesy",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 447,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/35/38/lone-cowboy-in-the-desert-vector-26283538.jpg"
+          },
+          "large": {
+            "width": 893,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/35/38/lone-cowboy-in-the-desert-vector-26283538.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 27338138,
+        "title": "Merry Country Christmas Bull Card",
+        "description": "A festive and charming Christmas card featuring a bull amidst a snowy landscape. Perfect for celebrating the holiday season with a rustic, country theme.",
+        "license": "expanded",
+        "artist": "GeraKTV",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/81/38/merry-country-christmas-bull-card-vector-27338138.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/81/38/merry-country-christmas-bull-card-vector-27338138.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 26731630,
+        "title": "Farm Animals Seamless Pattern",
+        "description": "A charming seamless pattern featuring various farm animals \u2013 cows, chickens, ducks, and more \u2013 set against a white background. This design is ideal for wallpaper, textile patterns, or backgrounds.",
+        "license": "expanded",
+        "artist": "nataka_",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/16/30/farm-animals-seamless-pattern-vector-26731630.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/16/30/farm-animals-seamless-pattern-vector-26731630.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 27862697,
+        "title": "Horned Bull BBQ Logo",
+        "description": "A striking vector logo featuring a horned bull, ideal for barbecue, grilling, or beef-related brands. Perfect for representing Texas longhorns and a fiery grilling experience.",
+        "license": "expanded",
+        "artist": "Aliaksei",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 253,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/26/97/horned-bull-bbq-logo-vector-27862697.jpg"
+          },
+          "large": {
+            "width": 505,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/26/97/horned-bull-bbq-logo-vector-27862697.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 14576067,
+        "title": "Dairy Farm to Consumer Milk Production",
+        "description": "A visual representation of milk processing, from dairy farm operations to consumer delivery. This graphic highlights the stages of milk production, emphasizing the journey of dairy products through the industry.",
+        "license": "expanded",
+        "artist": "MicroOne",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/60/67/dairy-farm-to-consumer-milk-production-vector-14576067.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/60/67/dairy-farm-to-consumer-milk-production-vector-14576067.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 10805392,
+        "title": "Farm Animals Signboard",
+        "description": "A two-color signboard featuring silhouettes of farm animals - cows, chickens, and goats - ideal for agricultural branding or shop signage.",
+        "license": "expanded",
+        "artist": "macrovector",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 364,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/53/92/farm-animals-signboard-vector-10805392.jpg"
+          },
+          "large": {
+            "width": 727,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/53/92/farm-animals-signboard-vector-10805392.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 78654,
+        "title": "Animal Warning Signs",
+        "description": "A collection of red and white animal warning signs featuring various farm animals, including cows, chickens, ducks, rabbits, and more. These signs are commonly associated with farm safety and animal protection.",
+        "license": "expanded",
+        "artist": "jameschipper",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 356,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/86/54/animal-warning-signs-vector-78654.jpg"
+          },
+          "large": {
+            "width": 711,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/86/54/animal-warning-signs-vector-78654.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 33550511,
+        "title": "Angry Bull Head",
+        "description": "A fierce and imposing headshot of an angry bull, featuring a powerful and intimidating appearance. Perfect for branding, sports, or any application requiring a strong and assertive visual.",
+        "license": "exclusive",
+        "artist": "bazzier",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/05/11/angry-bull-head-vector-33550511.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/05/11/angry-bull-head-vector-33550511.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972981,
+        "title": "Retro Cow Lover T-Shirt",
+        "description": "Vintage-style cow shirt design perfect for cow lovers. A classic retro image of a cow, ideal for a comfortable and stylish t-shirt.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/81/retro-cow-lover-t-shirt-vector-43972981.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/81/retro-cow-lover-t-shirt-vector-43972981.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 2636088,
+        "title": "Cute Farm Animal Set",
+        "description": "A charming collection of farm animals featuring stylized illustrations. Perfect for children's artwork, stationery, or web graphics. A delightful assortment of iconic farm creatures.",
+        "license": "expanded",
+        "artist": "Popmarleo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 182,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/60/88/cute-farm-animal-set-vector-2636088.jpg"
+          },
+          "large": {
+            "width": 363,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/60/88/cute-farm-animal-set-vector-2636088.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 778422,
+        "title": "Texas Longhorn Bull",
+        "description": "A striking, vintage-style illustration of a Texas Longhorn bull head, capturing the iconic horns and powerful presence. The artwork evokes a classic woodcut aesthetic.",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 445,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/84/22/texas-longhorn-bull-vector-778422.jpg"
+          },
+          "large": {
+            "width": 889,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/84/22/texas-longhorn-bull-vector-778422.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 26731627,
+        "title": "Farmer with Tractor in Barnyard",
+        "description": "A charming illustration depicts a farmer driving a tractor through a vibrant barnyard scene filled with farm animals. It showcases a classic rural setting with a focus on agriculture and farm life.",
+        "license": "expanded",
+        "artist": "nataka_",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/16/27/farmer-with-tractor-in-barnyard-vector-26731627.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/16/27/farmer-with-tractor-in-barnyard-vector-26731627.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 16387863,
+        "title": "Milk Logo - Farm Fresh Dairy",
+        "description": "A clean and modern logo featuring a milk cow, ideal for dairy farms, milk brands, and related products. Represents fresh, natural milk and wholesome farming.",
+        "license": "expanded",
+        "artist": "ssstocker",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/78/63/milk-logo-farm-fresh-dairy-vector-16387863.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/78/63/milk-logo-farm-fresh-dairy-vector-16387863.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1294111,
+        "title": "Cow Head Portrait",
+        "description": "Detailed close-up portrait of a cow's head. The image showcases the animal's features in a clear and focused manner, highlighting its face and expression.",
+        "license": "expanded",
+        "artist": "yod67",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/41/11/cow-head-portrait-vector-1294111.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/41/11/cow-head-portrait-vector-1294111.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1269382,
+        "title": "North American Bison",
+        "description": "A detailed silhouette image of a North American bison against a white background. This depicts the powerful animal with its characteristic horns and features, suitable for wildlife or nature themes.",
+        "license": "expanded",
+        "artist": "yod67",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 750,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/93/82/north-american-bison-vector-1269382.jpg"
+          },
+          "large": {
+            "width": 1499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/93/82/north-american-bison-vector-1269382.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 56998219,
+        "title": "bull logo design",
+        "description": "Bull Logo Design for Sport Team",
+        "license": "expanded",
+        "artist": "saripuddin",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/82/19/bull-logo-design-vector-56998219.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/82/19/bull-logo-design-vector-56998219.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43973000,
+        "title": "Retro Cow T-Shirt - Moo Animal Lover",
+        "description": "Vintage-style cow shirt design perfect for cow lovers. Features a classic retro aesthetic for a cool and unique look.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/30/00/retro-cow-t-shirt-moo-animal-lover-vector-43973000.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/30/00/retro-cow-t-shirt-moo-animal-lover-vector-43973000.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972918,
+        "title": "Retro Cow T-Shirt Vintage Style",
+        "description": "Classic vintage-inspired cow t-shirt design. Perfect for cow lovers and those who appreciate a retro aesthetic. A fun and stylish way to show your love for cows!",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/18/retro-cow-t-shirt-vintage-style-vector-43972918.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/18/retro-cow-t-shirt-vintage-style-vector-43972918.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972877,
+        "title": "Retro Cow T-Shirt - Moo!",
+        "description": "Vintage-style cow t-shirt design. Perfect for cow lovers! A classic and fun way to show your affection for cows.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/28/77/retro-cow-t-shirt-moo-vector-43972877.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/28/77/retro-cow-t-shirt-moo-vector-43972877.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972865,
+        "title": "Retro Cow T-Shirt - Moo!",
+        "description": "Vintage-style cow t-shirt design perfect for cow lovers. Features a classic cow silhouette and a playful 'Moo!' element. Ideal for shirts, apparel and merchandise.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/28/65/retro-cow-t-shirt-moo-vector-43972865.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/28/65/retro-cow-t-shirt-moo-vector-43972865.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972862,
+        "title": "Retro Cow Shirt - Vintage Moo T-Shirt",
+        "description": "Classic retro cow t-shirt design. Perfect for cow lovers and anyone who appreciates a vintage style. Features a detailed cow silhouette in a nostalgic color scheme.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/28/62/retro-cow-shirt-vintage-moo-t-shirt-vector-43972862.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/28/62/retro-cow-shirt-vintage-moo-t-shirt-vector-43972862.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972838,
+        "title": "Retro Cow Shirt - Farm Animal Tee",
+        "description": "Vintage-style cow shirt design. Perfect for cow lovers and farm enthusiasts. A classic and charming tee featuring a cow silhouette.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/28/38/retro-cow-shirt-farm-animal-tee-vector-43972838.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/28/38/retro-cow-shirt-farm-animal-tee-vector-43972838.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 43972753,
+        "title": "Retro Cow T-Shirt Vintage Style",
+        "description": "A classic vintage-style t-shirt design featuring a cow. Perfect for cow lovers and those who appreciate a retro aesthetic. Ideal for adults and children.",
+        "license": "exclusive",
+        "artist": "tee_expert",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/27/53/retro-cow-t-shirt-vintage-style-vector-43972753.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/27/53/retro-cow-t-shirt-vintage-style-vector-43972753.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 42106691,
+        "title": "Beef Cuts & Chops Promotion",
+        "description": "A vibrant promotional poster showcasing beef cuts and chops. Features a bold bull head silhouette, ideal for butcher shop advertising and food industry materials.",
+        "license": "expanded",
+        "artist": "Lukeruk",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 179,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/66/91/beef-cuts-chops-promotion-vector-42106691.jpg"
+          },
+          "large": {
+            "width": 357,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/66/91/beef-cuts-chops-promotion-vector-42106691.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 42000205,
+        "title": "Vintage Butcher Shop Sign",
+        "description": "A rustic, vintage-style butcher shop sign featuring a cow silhouette and bold lettering. Perfect for farm, cattle, or meat-related themes. Evokes a classic, retro butchery aesthetic.",
+        "license": "expanded",
+        "artist": "Lukeruk",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 350,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/02/05/vintage-butcher-shop-sign-vector-42000205.jpg"
+          },
+          "large": {
+            "width": 699,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/02/05/vintage-butcher-shop-sign-vector-42000205.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 41005360,
+        "title": "Farm Animals Collection",
+        "description": "A charming set of farm animals \u2013 cattle, chickens, sheep, pigs, and a dog \u2013 depicted in a flat, colorful style. Perfect for children\u2019s illustrations, educational materials, or decorative purposes.",
+        "license": "expanded",
+        "artist": "macrovector",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 500,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/53/60/farm-animals-collection-vector-41005360.jpg"
+          },
+          "large": {
+            "width": 999,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/53/60/farm-animals-collection-vector-41005360.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 4766443,
+        "title": "Low Poly Texas Longhorn Bull",
+        "description": "A vibrant, low polygon style representation of a Texas longhorn bull in motion. The artwork features a stylized, geometric design with triangular shapes, creating a dynamic and modern aesthetic. Perfect for digital art and creative projects.",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 257,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/64/43/low-poly-texas-longhorn-bull-vector-4766443.jpg"
+          },
+          "large": {
+            "width": 513,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/64/43/low-poly-texas-longhorn-bull-vector-4766443.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 4432499,
+        "title": "Cheerful Cartoon Cow",
+        "description": "A delightful cartoon illustration of a happy cow with a friendly face, perfect for children's artwork or educational materials.",
+        "license": "exclusive",
+        "artist": "tigatelu",
+        "credits": 3,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 245,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/24/99/cheerful-cartoon-cow-vector-4432499.jpg"
+          },
+          "large": {
+            "width": 489,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/24/99/cheerful-cartoon-cow-vector-4432499.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1590312,
+        "title": "Charging Longhorn Bull",
+        "description": "A powerful longhorn steer charging forward with a vibrant sunburst background, showcasing its imposing size and aggressive stance. This dramatic scene captures the raw energy of a Texas longhorn.",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 336,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/03/12/charging-longhorn-bull-vector-1590312.jpg"
+          },
+          "large": {
+            "width": 671,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/03/12/charging-longhorn-bull-vector-1590312.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 27308707,
+        "title": "Bull Skull Icon - Rustic Style",
+        "description": "A detailed bull skull icon, perfect for western themes, ranch branding, or Halloween designs. Features a realistic rendering and a rustic aesthetic. Ideal for logos, badges, and digital artwork.",
+        "license": "expanded",
+        "artist": "elaelo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 440,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/87/07/bull-skull-icon-rustic-style-vector-27308707.jpg"
+          },
+          "large": {
+            "width": 879,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/87/07/bull-skull-icon-rustic-style-vector-27308707.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1096418,
+        "title": "Fresh Beef Label with Cow Icon",
+        "description": "A vibrant label featuring a stylized cow silhouette and prominent text highlighting \u2018fresh\u2019 and \u2018beef\u2019. Ideal for food packaging and marketing materials. This label emphasizes natural and quality beef.",
+        "license": "expanded",
+        "artist": "AlexeyPushkin",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/64/18/fresh-beef-label-with-cow-icon-vector-1096418.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/64/18/fresh-beef-label-with-cow-icon-vector-1096418.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 57673920,
+        "title": "classic cattle livestock on road sign",
+        "description": "classic cattle cows livestock on road sign in white red triangle vector illustration isolated on transparent background",
+        "license": "expanded",
+        "artist": "MartyInkTank",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/39/20/classic-cattle-livestock-on-road-sign-vector-57673920.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/39/20/classic-cattle-livestock-on-road-sign-vector-57673920.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 23749849,
+        "title": "Antique Cow Engraving",
+        "description": "Detailed antique engraving of a cow, reminiscent of a vintage farm scene. The illustration showcases a classic depiction of bovine livestock, suitable for agricultural or rural themes.",
+        "license": "expanded",
+        "artist": "Krolone",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 357,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/98/49/antique-cow-engraving-vector-23749849.jpg"
+          },
+          "large": {
+            "width": 713,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/98/49/antique-cow-engraving-vector-23749849.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 30690850,
+        "title": "Intestinal Parasites in Animals",
+        "description": "Informative poster depicting common intestinal parasitic worms affecting animals \u2013 including cats, dogs, and cattle. Illustrates the internal impact of helminth infections, highlighting symptoms and potential health risks. Focuses on diagnosis and care.",
+        "license": "expanded",
+        "artist": "macrovector",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 430,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/08/50/intestinal-parasites-in-animals-vector-30690850.jpg"
+          },
+          "large": {
+            "width": 859,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/08/50/intestinal-parasites-in-animals-vector-30690850.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 28133811,
+        "title": "Hercules and Geryon: Cattle Theft",
+        "description": "Depiction of Hercules (Heracles) confronting the monstrous Geryon, pursuing his cattle across a barren landscape. This scene reflects the legendary Twelve Labors, a pivotal myth of Greek mythology.",
+        "license": "expanded",
+        "artist": "rogistok",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/38/11/hercules-and-geryon-cattle-theft-vector-28133811.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/38/11/hercules-and-geryon-cattle-theft-vector-28133811.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 24473258,
+        "title": "Beef Cuts Diagram",
+        "description": "Detailed diagram showcasing various cuts of beef. This illustration presents a comprehensive overview of beef segmentation for culinary and industrial applications.",
+        "license": "expanded",
+        "artist": "Ramas",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 210,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/32/58/beef-cuts-diagram-vector-24473258.jpg"
+          },
+          "large": {
+            "width": 419,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/32/58/beef-cuts-diagram-vector-24473258.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 20347304,
+        "title": "Lone Bull with Cowboy Hat",
+        "description": "A striking monochrome line art depiction of a powerful bull sporting a classic cowboy hat and a prominent nose ring. The artwork features a single-line style and a front-facing perspective, conveying a sense of raw strength and western heritage.",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 276,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/73/04/lone-bull-with-cowboy-hat-vector-20347304.jpg"
+          },
+          "large": {
+            "width": 551,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/73/04/lone-bull-with-cowboy-hat-vector-20347304.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 5118737,
+        "title": "happy cartoon cow",
+        "description": "illustration of Happy cartoon cow",
+        "license": "exclusive",
+        "artist": "tigatelu",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 245,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/87/37/happy-cartoon-cow-vector-5118737.jpg"
+          },
+          "large": {
+            "width": 489,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/87/37/happy-cartoon-cow-vector-5118737.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 4780677,
+        "title": "Texas Longhorn Bull Tongue Out",
+        "description": "Bold red illustration of a Texas Longhorn bull with its tongue playfully sticking out. Set against a clean, white background. A classic, retro-style image of this iconic American animal.",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/06/77/texas-longhorn-bull-tongue-out-vector-4780677.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/06/77/texas-longhorn-bull-tongue-out-vector-4780677.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 572484,
+        "title": "Bull Silhouette",
+        "description": "A striking red bull silhouette, perfect for various applications. A clear and concise representation of a bull, suitable for icons, graphics, or decorative elements.",
+        "license": "expanded",
+        "artist": "ilyaka",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 125,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/24/84/bull-silhouette-vector-572484.jpg"
+          },
+          "large": {
+            "width": 249,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/24/84/bull-silhouette-vector-572484.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 78655,
+        "title": "Animal Warning Signs",
+        "description": "A collection of red warning signs depicting various farm animals, including cows, chickens, rabbits, and more. These signs represent potential hazards or warnings related to livestock.",
+        "license": "expanded",
+        "artist": "jameschipper",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 352,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/86/55/animal-warning-signs-vector-78655.jpg"
+          },
+          "large": {
+            "width": 703,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/86/55/animal-warning-signs-vector-78655.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 41599966,
+        "title": "Bull Head Meat Logo - Farm & Butcher",
+        "description": "Robust bull head emblem for meat branding, farm, butcher shop, or barbecue restaurant. Features a stylized bull head with a knife, perfect for packaging, menus, and promotional materials. Emphasizes strength, quality, and a connection to agriculture.",
+        "license": "expanded",
+        "artist": "AvaBitter",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 570,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/99/66/bull-head-meat-logo-farm-butcher-vector-41599966.jpg"
+          },
+          "large": {
+            "width": 1139,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/99/66/bull-head-meat-logo-farm-butcher-vector-41599966.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 11894452,
+        "title": "Beef Cuts Diagram",
+        "description": "Detailed diagram showcasing various beef cuts, ideal for butcher shops, food industry reference, or educational materials. Presents a comprehensive overview of common beef sections.",
+        "license": "expanded",
+        "artist": "Timka",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 379,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/44/52/beef-cuts-diagram-vector-11894452.jpg"
+          },
+          "large": {
+            "width": 757,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/44/52/beef-cuts-diagram-vector-11894452.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 48111612,
+        "title": "bull rodeo seamless pattern colorful",
+        "description": "Bull rodeo seamless pattern colorful with head of evil animal among inscriptions about wild west and cowboys vector illustration",
+        "license": "expanded",
+        "artist": "imogi",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/16/12/bull-rodeo-seamless-pattern-colorful-vector-48111612.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/16/12/bull-rodeo-seamless-pattern-colorful-vector-48111612.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 47041875,
+        "title": "angry bull head cartoon logo",
+        "description": "Angry bull head. Cartoon icon, logo. Vector illustration",
+        "license": "expanded",
+        "artist": "MrVS",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/18/75/angry-bull-head-cartoon-logo-vector-47041875.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/18/75/angry-bull-head-cartoon-logo-vector-47041875.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 34722976,
+        "title": "dynamic bull preparing to attack logo on a gray",
+        "description": "Dynamic Bull Preparing to attack logo on a gray background.",
+        "license": "exclusive",
+        "artist": "Balanslava",
+        "credits": 1,
+        "free": true,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/76/dynamic-bull-preparing-to-attack-logo-on-a-gray-vector-34722976.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/76/dynamic-bull-preparing-to-attack-logo-on-a-gray-vector-34722976.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 3872925,
+        "title": "scheme of beef cuts",
+        "description": "Scheme of Beef cuts isolated",
+        "license": "expanded",
+        "artist": "Sardim",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/25/scheme-of-beef-cuts-vector-3872925.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/25/scheme-of-beef-cuts-vector-3872925.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 2143338,
+        "title": "lobster seamless pattern",
+        "description": "Lobster sea food mint parsley lemon olive seamless pattern vector illustration",
+        "license": "expanded",
+        "artist": "macrovector",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 251,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/33/38/lobster-seamless-pattern-vector-2143338.jpg"
+          },
+          "large": {
+            "width": 501,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/33/38/lobster-seamless-pattern-vector-2143338.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 6738097,
+        "title": "farm fresh beef",
+        "description": "Set of fresh beef labelsicons and design element",
+        "license": "expanded",
+        "artist": "masay",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 254,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/80/97/farm-fresh-beef-vector-6738097.jpg"
+          },
+          "large": {
+            "width": 507,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/80/97/farm-fresh-beef-vector-6738097.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 55828933,
+        "title": "zen horse veterinary clinic logo",
+        "description": "Zen Horse Veterinary Clinic Logo, Yoga Logo",
+        "license": "exclusive",
+        "artist": "BoexDesign",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 375,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/89/33/zen-horse-veterinary-clinic-logo-vector-55828933.jpg"
+          },
+          "large": {
+            "width": 749,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/89/33/zen-horse-veterinary-clinic-logo-vector-55828933.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 55828846,
+        "title": "pegasus blitz running horse logo",
+        "description": "Pegasus Blitz Running Horse Logo",
+        "license": "exclusive",
+        "artist": "BoexDesign",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/88/46/pegasus-blitz-running-horse-logo-vector-55828846.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/88/46/pegasus-blitz-running-horse-logo-vector-55828846.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 2022061,
+        "title": "seamless pattern with spotted cow texture",
+        "description": "Set of four seamless vector patterns with spotted cow texture",
+        "license": "expanded",
+        "artist": "AlenaP",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/20/61/seamless-pattern-with-spotted-cow-texture-vector-2022061.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/20/61/seamless-pattern-with-spotted-cow-texture-vector-2022061.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 49565739,
+        "title": "bull head logo mascot design",
+        "description": "Bull head logo. Mascot design. Vector illustration EPS10",
+        "license": "expanded",
+        "artist": "MrVS",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/57/39/bull-head-logo-mascot-design-vector-49565739.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/57/39/bull-head-logo-mascot-design-vector-49565739.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 41715175,
+        "title": "bull fighter athletic club mascot logo",
+        "description": "Bull Fighter athletic club vector mascot logo concept isolated on white background",
+        "license": "exclusive",
+        "artist": "saripuddin",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/51/75/bull-fighter-athletic-club-mascot-logo-vector-41715175.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/51/75/bull-fighter-athletic-club-mascot-logo-vector-41715175.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 34722975,
+        "title": "2021 is year bull according",
+        "description": "2021 is the year of the Bull according to the Eastern calendar.",
+        "license": "exclusive",
+        "artist": "Balanslava",
+        "credits": 1,
+        "free": true,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/75/2021-is-year-bull-according-vector-34722975.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/75/2021-is-year-bull-according-vector-34722975.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 34722971,
+        "title": "black bull with fiery eyes in a red circle",
+        "description": "Black Bull with fiery eyes in a red circle on a black background, a symbol of the year.",
+        "license": "exclusive",
+        "artist": "Balanslava",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/29/71/black-bull-with-fiery-eyes-in-a-red-circle-vector-34722971.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/29/71/black-bull-with-fiery-eyes-in-a-red-circle-vector-34722971.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 31881962,
+        "title": "meat food butcher shop banners with beef pork",
+        "description": "Meat food of butcher shop vector banners. Fresh beef and pork steaks, ham and bacon stripes, barbeque lamb ribs, chicken legs and bbq burgers, turkey, spices, herbs, chef toque, knives, grill fork",
+        "license": "exclusive",
+        "artist": "Seamartini",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/19/62/meat-food-butcher-shop-banners-with-beef-pork-vector-31881962.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/19/62/meat-food-butcher-shop-banners-with-beef-pork-vector-31881962.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 5530040,
+        "title": "little village house rural landscape with forest",
+        "description": "Colored hand drawn sketchy pencil feel illustration of. Countryside landscape with building and a bike",
+        "license": "expanded",
+        "artist": "Popmarleo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 267,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/00/40/little-village-house-rural-landscape-with-forest-vector-5530040.jpg"
+          },
+          "large": {
+            "width": 533,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/00/40/little-village-house-rural-landscape-with-forest-vector-5530040.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 4432417,
+        "title": "happy cartoon cow mascot",
+        "description": "vector illustration of Happy cartoon cow mascot",
+        "license": "exclusive",
+        "artist": "tigatelu",
+        "credits": 3,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/24/17/happy-cartoon-cow-mascot-vector-4432417.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/24/17/happy-cartoon-cow-mascot-vector-4432417.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1054788,
+        "title": "rodeo cowboy bull riding cartoon",
+        "description": "rodeo cowboy riding bucking bull on isolated white background with diamond shape",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 3,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 226,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/47/88/rodeo-cowboy-bull-riding-cartoon-vector-1054788.jpg"
+          },
+          "large": {
+            "width": 451,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/47/88/rodeo-cowboy-bull-riding-cartoon-vector-1054788.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 755454,
+        "title": "texas longhorn bull viewed from side",
+        "description": "texas longhorn bull viewed from side retro style",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 330,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/54/54/texas-longhorn-bull-viewed-from-side-vector-755454.jpg"
+          },
+          "large": {
+            "width": 659,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/54/54/texas-longhorn-bull-viewed-from-side-vector-755454.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 54646479,
+        "title": "print",
+        "description": "Print",
+        "license": "exclusive",
+        "artist": "ShahAlam247",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/64/79/print-vector-54646479.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/64/79/print-vector-54646479.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 50870999,
+        "title": "buffalo mascot bull cartoon",
+        "description": "Bull cartoon illustration, buffalo vector mascot, strong and confidence symbol.",
+        "license": "exclusive",
+        "artist": "ednal",
+        "credits": 3,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/09/99/buffalo-mascot-bull-cartoon-vector-50870999.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/09/99/buffalo-mascot-bull-cartoon-vector-50870999.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 3445363,
+        "title": "meat animals icons",
+        "description": "meat animals icons",
+        "license": "expanded",
+        "artist": "VasilkovS",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 263,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/53/63/meat-animals-icons-vector-3445363.jpg"
+          },
+          "large": {
+            "width": 525,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/53/63/meat-animals-icons-vector-3445363.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 33550512,
+        "title": "mascot big bull in set",
+        "description": "mascot of big bull in set",
+        "license": "exclusive",
+        "artist": "bazzier",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 331,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/05/12/mascot-big-bull-in-set-vector-33550512.jpg"
+          },
+          "large": {
+            "width": 661,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/05/12/mascot-big-bull-in-set-vector-33550512.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 32694577,
+        "title": "year ox round symbol",
+        "description": "Year Of The Ox Vector Round Symbol And A Stamp, Vector Illustration Isolated On A White Background. Text translation - Ox.",
+        "license": "expanded",
+        "artist": "CallMeTak",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 301,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/45/77/year-ox-round-symbol-vector-32694577.jpg"
+          },
+          "large": {
+            "width": 601,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/45/77/year-ox-round-symbol-vector-32694577.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 34060,
+        "title": "2009 cartoon bulls",
+        "description": "2009 cartoon ox - new year symbols",
+        "license": "expanded",
+        "artist": "Dianka",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 532,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/40/60/2009-cartoon-bulls-vector-34060.jpg"
+          },
+          "large": {
+            "width": 1063,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/40/60/2009-cartoon-bulls-vector-34060.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 51014700,
+        "title": "bull head logo mascot design",
+        "description": "Bull head logo. Mascot design. Vector illustration EPS10",
+        "license": "expanded",
+        "artist": "MrVS",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/47/00/bull-head-logo-mascot-design-vector-51014700.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/47/00/bull-head-logo-mascot-design-vector-51014700.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 42002702,
+        "title": "butchery shop collection of signs and symbols",
+        "description": "Butchery shop collection of signs, symbols, logos, icons,emblems, graphics and design elements. Vector butcher illustration. Meat market designs.",
+        "license": "expanded",
+        "artist": "Lukeruk",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 373,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/27/02/butchery-shop-collection-of-signs-and-symbols-vector-42002702.jpg"
+          },
+          "large": {
+            "width": 745,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/27/02/butchery-shop-collection-of-signs-and-symbols-vector-42002702.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 5118726,
+        "title": "happy cartoon cow",
+        "description": "illustration of Happy cartoon cow",
+        "license": "exclusive",
+        "artist": "tigatelu",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/87/26/happy-cartoon-cow-vector-5118726.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/87/26/happy-cartoon-cow-vector-5118726.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 4234399,
+        "title": "barbecue",
+        "description": "vector diagram cut carcasses of chicken, pig, cow",
+        "license": "expanded",
+        "artist": "Moloko88",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 258,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/43/99/barbecue-vector-4234399.jpg"
+          },
+          "large": {
+            "width": 515,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/43/99/barbecue-vector-4234399.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 1590315,
+        "title": "texas longhorn bull",
+        "description": "a texas longhorn bull set inside a circle",
+        "license": "expanded",
+        "artist": "patrimonio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 304,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/03/15/texas-longhorn-bull-vector-1590315.jpg"
+          },
+          "large": {
+            "width": 607,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/03/15/texas-longhorn-bull-vector-1590315.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 50870998,
+        "title": "buffalo mascot bull cartoon",
+        "description": "Bull cartoon illustration, buffalo vector mascot, strong and confidence symbol.",
+        "license": "exclusive",
+        "artist": "ednal",
+        "credits": 3,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/09/98/buffalo-mascot-bull-cartoon-vector-50870998.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/09/98/buffalo-mascot-bull-cartoon-vector-50870998.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 45157009,
+        "title": "red bull logo design with modern minimalist style",
+        "description": "Red Bull Logo Design with Modern Minimalist Style Concept.",
+        "license": "exclusive",
+        "artist": "Rtn_Studio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 400,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/70/09/red-bull-logo-design-with-modern-minimalist-style-vector-45157009.jpg"
+          },
+          "large": {
+            "width": 799,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/70/09/red-bull-logo-design-with-modern-minimalist-style-vector-45157009.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 34733377,
+        "title": "angry red bull",
+        "description": "Angry red bull icon on a red background.",
+        "license": "expanded",
+        "artist": "taronin",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 347,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/33/77/angry-red-bull-vector-34733377.jpg"
+          },
+          "large": {
+            "width": 693,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/33/77/angry-red-bull-vector-34733377.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 31758738,
+        "title": "slice meat pixel art pork on bone 8 bit",
+        "description": "Slice meat pixel art. Pork on bone 8 bit. Vector piece of beef beefsteak. Old school games graphics. Cartoon food to use in a computer game. Minimalistic pixel graphic piece of meat illustration",
+        "license": "expanded",
+        "artist": "TopVector",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 216,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/87/38/slice-meat-pixel-art-pork-on-bone-8-bit-vector-31758738.jpg"
+          },
+          "large": {
+            "width": 431,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/87/38/slice-meat-pixel-art-pork-on-bone-8-bit-vector-31758738.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 26731620,
+        "title": "farmer in barnyard with pets",
+        "description": "farmer in the barnyard with pets - vector illustration, eps farmer stands in a barnyard with a cow and a dog",
+        "license": "expanded",
+        "artist": "nataka_",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/16/20/farmer-in-barnyard-with-pets-vector-26731620.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/16/20/farmer-in-barnyard-with-pets-vector-26731620.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 23968269,
+        "title": "taurus logo template icon design",
+        "description": "Taurus Logo Template vector icon illustration design",
+        "license": "expanded",
+        "artist": "elaelo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/82/69/taurus-logo-template-icon-design-vector-23968269.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/82/69/taurus-logo-template-icon-design-vector-23968269.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 730083,
+        "title": "cow bull head label in cartoon style",
+        "description": "cow bull head label in cartoon style",
+        "license": "expanded",
+        "artist": "lusikkolbaskin",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 240,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/00/83/cow-bull-head-label-in-cartoon-style-vector-730083.jpg"
+          },
+          "large": {
+            "width": 479,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/00/83/cow-bull-head-label-in-cartoon-style-vector-730083.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 38628091,
+        "title": "cow icon on triangle red and white road sign",
+        "description": "Cow icon on the triangle red and white road sign isolated on white",
+        "license": "expanded",
+        "artist": "Bobrovee",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/80/91/cow-icon-on-triangle-red-and-white-road-sign-vector-38628091.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/80/91/cow-icon-on-triangle-red-and-white-road-sign-vector-38628091.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 25468303,
+        "title": "farm house poster",
+        "description": "Farm House Market Poster Template. Farmers Market. Healthy Food, Organic Products and Farming Concept. Funny Farm Animals. Vector Illustration.",
+        "license": "exclusive",
+        "artist": "elfivetrov",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 179,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/83/03/farm-house-poster-vector-25468303.jpg"
+          },
+          "large": {
+            "width": 357,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/83/03/farm-house-poster-vector-25468303.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 2384798,
+        "title": "chinese zodiac animal rabbit",
+        "description": "A vector image of a chinese zodiac animal, rabbit, inside a chinese-style circular ornament. Drawn in cartoon style, this vector is very good for design that needs animal or chinese zodiac element in cute, funny, colorful and cheerful style.",
+        "license": "expanded",
+        "artist": "BluezAce",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 223,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/47/98/chinese-zodiac-animal-rabbit-vector-2384798.jpg"
+          },
+          "large": {
+            "width": 445,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/47/98/chinese-zodiac-animal-rabbit-vector-2384798.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 51743943,
+        "title": "red bull animal flat on white background",
+        "description": "Red bull animal flat vector illustration on white background",
+        "license": "expanded",
+        "artist": "Graphictoons",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/39/43/red-bull-animal-flat-on-white-background-vector-51743943.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/39/43/red-bull-animal-flat-on-white-background-vector-51743943.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 45874473,
+        "title": "beef meat piece raw steak cartoon icon",
+        "description": "Beef meat piece. Raw steak cartoon icon isolated on white background",
+        "license": "expanded",
+        "artist": "ssstocker",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 512,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/44/73/beef-meat-piece-raw-steak-cartoon-icon-vector-45874473.jpg"
+          },
+          "large": {
+            "width": 1023,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/44/73/beef-meat-piece-raw-steak-cartoon-icon-vector-45874473.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 27669080,
+        "title": "farm animals with meat cuts lines retro",
+        "description": "Farm animals with meat cuts lines. Retro vector",
+        "license": "expanded",
+        "artist": "AvaBitter",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 337,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/90/80/farm-animals-with-meat-cuts-lines-retro-vector-27669080.jpg"
+          },
+          "large": {
+            "width": 673,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/90/80/farm-animals-with-meat-cuts-lines-retro-vector-27669080.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 23865764,
+        "title": "taurus logo template",
+        "description": "Taurus Logo Template vector icon illustration design",
+        "license": "expanded",
+        "artist": "elaelo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 467,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/57/64/taurus-logo-template-vector-23865764.jpg"
+          },
+          "large": {
+            "width": 933,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/57/64/taurus-logo-template-vector-23865764.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 23854057,
+        "title": "taurus logo template icon",
+        "description": "Taurus Logo Template vector icon illustration design",
+        "license": "expanded",
+        "artist": "elaelo",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 253,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/40/57/taurus-logo-template-icon-vector-23854057.jpg"
+          },
+          "large": {
+            "width": 505,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/40/57/taurus-logo-template-icon-vector-23854057.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 19860126,
+        "title": "milkmaid farmer granny adult rancher old age woman",
+        "description": "Milkmaid farmer granny adult rancher old age woman peasant character cartoon villager flat isolated design vector illustration",
+        "license": "expanded",
+        "artist": "Meilun",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 319,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/01/26/milkmaid-farmer-granny-adult-rancher-old-age-woman-vector-19860126.jpg"
+          },
+          "large": {
+            "width": 637,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/01/26/milkmaid-farmer-granny-adult-rancher-old-age-woman-vector-19860126.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 6355676,
+        "title": "farm animals - icon",
+        "description": "farm animals - icon",
+        "license": "expanded",
+        "artist": "hanaschwarz",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 258,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/56/76/farm-animals-icon-vector-6355676.jpg"
+          },
+          "large": {
+            "width": 515,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/56/76/farm-animals-icon-vector-6355676.jpg"
+          }
+        }
+      }
+    ],
+    "total": 92,
+    "page": 1,
+    "pages": 1
+  }
+}

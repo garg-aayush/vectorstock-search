@@ -1,0 +1,16 @@
+{
+  "timestamp": "20250827_180412",
+  "query": "cattle noq",
+  "parameters_used": {
+    "keywords": "cattle noq",
+    "page": 1,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

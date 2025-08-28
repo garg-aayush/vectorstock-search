@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250827_160320",
+  "parameters": {
+    "keywords": "Cattle",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 100,
+    "order": "bestmatch"
+  }
+}

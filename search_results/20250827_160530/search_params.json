@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250827_160530",
+  "parameters": {
+    "keywords": "Cow",
+    "category": "design-elements",
+    "page": 1,
+    "object_count_min": 1,
+    "object_count_max": 3,
+    "color": "#FF0000",
+    "color_threshold": 5,
+    "order": "bestmatch"
+  }
+}

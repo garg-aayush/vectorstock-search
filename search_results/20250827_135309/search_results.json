@@ -1,0 +1,122 @@
+{
+  "timestamp": "20250827_135309",
+  "query": "Kobe Bryant",
+  "parameters_used": {
+    "keywords": "Kobe Bryant",
+    "page": 1,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 40794505,
+        "title": "Kobe Bryant Black Mamba",
+        "description": "A striking vector art portrait of Kobe Bryant, celebrating his iconic status as the 'Black Mamba'. This powerful image captures his fierce determination and legendary career. Perfect for sports fans and collectors.",
+        "license": "exclusive",
+        "artist": "warrock",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/45/05/kobe-bryant-black-mamba-vector-40794505.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/45/05/kobe-bryant-black-mamba-vector-40794505.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 35157040,
+        "title": "Kobe Bryant: Remembered",
+        "description": "A tribute to basketball legend Kobe Bryant. This artwork celebrates his legacy, impact, and unwavering spirit. A poignant reminder of his greatness and a heartfelt RIP.",
+        "license": "expanded",
+        "artist": "asnan_ad",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/70/40/kobe-bryant-remembered-vector-35157040.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/70/40/kobe-bryant-remembered-vector-35157040.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 40173144,
+        "title": "kobe neon in modern",
+        "description": "Kobe Neon Vector Illustration. Kobe in modern style on light background. Night city.",
+        "license": "expanded",
+        "artist": "Soifer",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 313,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/31/44/kobe-neon-in-modern-vector-40173144.jpg"
+          },
+          "large": {
+            "width": 625,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/31/44/kobe-neon-in-modern-vector-40173144.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 40408981,
+        "title": "kobe neon in modern",
+        "description": "Kobe Neon Vector Illustration. Kobe in modern style on light background. Night city. Editing text neon sign.",
+        "license": "expanded",
+        "artist": "Soifer",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 650,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/89/81/kobe-neon-in-modern-vector-40408981.jpg"
+          },
+          "large": {
+            "width": 1299,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/89/81/kobe-neon-in-modern-vector-40408981.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 44451379,
+        "title": "Kobe Bryant Basketball T-Shirt",
+        "description": "Bold basketball apparel perfect for Lakers fans! This t-shirt features a tribute to Kobe Bryant, ideal for showing your love for the sport and legendary player. Easy to customize and print-ready.",
+        "license": "standard",
+        "artist": "RAKIB765",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/13/79/kobe-bryant-basketball-t-shirt-vector-44451379.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/13/79/kobe-bryant-basketball-t-shirt-vector-44451379.jpg"
+          }
+        }
+      }
+    ],
+    "total": 5,
+    "page": 1,
+    "pages": 1
+  }
+}
