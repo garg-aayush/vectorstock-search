@@ -2,3 +2,4 @@
 .specstory/*
 .vectorstock-dashboard
 *.bak
+.cursorindexingignore
