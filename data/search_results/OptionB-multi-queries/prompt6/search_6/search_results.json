@@ -1,0 +1,17 @@
+{
+  "timestamp": "20250829_175311",
+  "query": "retro GOOD VIBES wordmark",
+  "parameters_used": {
+    "keywords": "retro GOOD VIBES wordmark",
+    "category": "t-shirt-graphics",
+    "cmyk_only": true,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "seamless doodle pattern"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "seamless doodle pattern",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "seamless doodle pattern",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "hand-drawn seamless design",
+        "category": "t-shirt-graphics",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "doodle sketch outline pattern",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "hand-drawn seamless art",
+        "category": "icon-emblem-(single)",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

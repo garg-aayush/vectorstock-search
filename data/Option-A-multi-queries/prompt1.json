@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "minimal mountain badge logo"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "minimal mountain badge logo",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "minimal mountain badge logo",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "mountain emblem design",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "geometric mountain icon",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "outdoor adventure badge",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

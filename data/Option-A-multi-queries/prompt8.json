@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "astronaut holding a planet balloon"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "astronaut holding a planet balloon",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "astronaut holding a planet balloon",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "space explorer balloon logo",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "cosmic astronaut outline",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "planet balloon space graphic",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

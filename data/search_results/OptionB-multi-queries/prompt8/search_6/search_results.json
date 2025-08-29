@@ -1,0 +1,39 @@
+{
+  "timestamp": "20250829_175338",
+  "query": "planet balloon space graphic",
+  "parameters_used": {
+    "keywords": "planet balloon space graphic",
+    "category": "t-shirt-graphics",
+    "cmyk_only": true,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 24487530,
+        "title": "cosmonaut on moon with planet earth balloon",
+        "description": "cosmonaut on moon with planet earth balloon 10 eps",
+        "license": "exclusive",
+        "artist": "Musjaka",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/75/30/cosmonaut-on-moon-with-planet-earth-balloon-vector-24487530.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/75/30/cosmonaut-on-moon-with-planet-earth-balloon-vector-24487530.jpg"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "pages": 1
+  }
+}

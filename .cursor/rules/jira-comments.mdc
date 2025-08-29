@@ -1,0 +1,14 @@
+---
+alwaysApply: false
+---
+This rule applies to whenever I need to add comment to the Atlassian JIRA ticket.
+## Structure of the JIRA ticket comment
+- The ticket should start with the current date in the format 
+  - "## Update <Date> (Comment x/X)"
+  - Example "## Update August 14th, 2025 (Comment 1/5)
+- Make sure to write the comments in bullet points
+- Make sure to do through the following before writing the comment:
+  - The ticket description, details, acceptance criteria and implementation plan
+  - The given context and instructions
+- Make sure to first write the comment for review. When I agree with the structure and content then only add it to the JIRA ticket. 
+- Make sure to write the comment locally too to the Ticket.md file

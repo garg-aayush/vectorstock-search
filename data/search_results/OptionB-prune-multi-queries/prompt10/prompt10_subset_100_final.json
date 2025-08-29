@@ -1,0 +1,2111 @@
+{
+  "total_unique_artworks": 100,
+  "selection_metadata": {
+    "original_total": 495,
+    "selected_count": 100,
+    "found_count": 100,
+    "missing_count": 0
+  },
+  "artworks": [
+    {
+      "art_id": 1496944,
+      "title": "Doodle Monster Pattern",
+      "description": "A vibrant and playful seamless pattern featuring whimsical monster doodles. Perfect for backgrounds, wallpapers, and various creative projects.",
+      "license": "expanded",
+      "artist": "krookedeye",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 210,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/69/44/doodle-monster-pattern-vector-1496944.jpg"
+        },
+        "large": {
+          "width": 419,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/69/44/doodle-monster-pattern-vector-1496944.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 28164369,
+      "title": "Black Paw Print Seamless Pattern",
+      "description": "A seamless pattern featuring black doodle paw prints. Ideal for backgrounds, textures, or creative projects.",
+      "license": "expanded",
+      "artist": "fourleaflover",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 270,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/43/69/black-paw-print-seamless-pattern-vector-28164369.jpg"
+        },
+        "large": {
+          "width": 539,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/43/69/black-paw-print-seamless-pattern-vector-28164369.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 50224037,
+      "title": "Doodle Line Pattern Background",
+      "description": "A playful and modern background featuring a seamless pattern of doodle lines. This vibrant and creative pattern is perfect for various applications, including wallpaper, fabric, or digital decorations.",
+      "license": "expanded",
+      "artist": "opheticon",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 500,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/40/37/doodle-line-pattern-background-vector-50224037.jpg"
+        },
+        "large": {
+          "width": 999,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/40/37/doodle-line-pattern-background-vector-50224037.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 13951016,
+      "title": "Geometric Doodle Pattern",
+      "description": "A vibrant, hand-drawn seamless pattern featuring geometric shapes and doodles. Perfect for backgrounds, scrapbooking, or textile designs. Bold colors and a playful aesthetic.",
+      "license": "expanded",
+      "artist": "HypnoCreative",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/10/16/geometric-doodle-pattern-vector-13951016.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/10/16/geometric-doodle-pattern-vector-13951016.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27208474,
+      "title": "Hand Drawn Heart Pattern",
+      "description": "Seamless red heart pattern. A beautiful doodle with hand-drawn hearts, perfect for Valentine's Day, gift wrapping, or creating a romantic background. This pattern is ideal for various decorative applications.",
+      "license": "expanded",
+      "artist": "YummyBuum",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/84/74/hand-drawn-heart-pattern-vector-27208474.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/84/74/hand-drawn-heart-pattern-vector-27208474.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 8743879,
+      "title": "Street Art Doodle Pattern",
+      "description": "Seamless pattern featuring vibrant street art doodles and graffiti elements. A chaotic blend of characters and shapes, perfect for skateboards, streetwear, wallpaper, and fabric designs. Bold, expressive, and energetic.",
+      "license": "expanded",
+      "artist": "vanzyst",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/79/street-art-doodle-pattern-vector-8743879.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/79/street-art-doodle-pattern-vector-8743879.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27207248,
+      "title": "Vintage Autumn Leaf Pattern",
+      "description": "A beautiful and intricate seamless doodle pattern featuring stylized autumn leaves. Perfect for backgrounds, stationery, and decorative projects celebrating fall holidays like birthdays and mother’s day.",
+      "license": "expanded",
+      "artist": "JENYA777LEVCHEN",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/72/48/vintage-autumn-leaf-pattern-vector-27207248.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/72/48/vintage-autumn-leaf-pattern-vector-27207248.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 987449,
+      "title": "Cute Rabbit Doodle Pattern",
+      "description": "Whimsical seamless pattern featuring adorable cartoon rabbits in a doodle style. Perfect for wallpapers, backgrounds, or decorative elements. A charming and playful aesthetic.",
+      "license": "expanded",
+      "artist": "incomible",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/74/49/cute-rabbit-doodle-pattern-vector-987449.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/74/49/cute-rabbit-doodle-pattern-vector-987449.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 33726373,
+      "title": "Rainy Rainbow Doodle Pattern",
+      "description": "A charming and whimsical doodle pattern featuring half-rings, clouds, and water droplets. Perfect for nurseries, children's rooms, or any space needing a touch of playful color. The design evokes a gentle, rainy day.",
+      "license": "expanded",
+      "artist": "Multigon",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/63/73/rainy-rainbow-doodle-pattern-vector-33726373.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/63/73/rainy-rainbow-doodle-pattern-vector-33726373.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27226560,
+      "title": "Cute Unicorn Pattern - Seamless",
+      "description": "A charming seamless pattern featuring adorable unicorn heads. Ideal for children's fabrics, nursery decor, wrapping paper, and textile designs. This whimsical pattern is perfect for creating a magical and playful atmosphere.",
+      "license": "expanded",
+      "artist": "solodkayamari",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/65/60/cute-unicorn-pattern-seamless-vector-27226560.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/65/60/cute-unicorn-pattern-seamless-vector-27226560.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22487039,
+      "title": "Cute Cat Pattern - Funny Kitten",
+      "description": "A playful seamless pattern featuring adorable, quirky cats. Ideal for fabrics, wallpapers, and children's products. Bright colors and charming details create a joyful and whimsical feel.",
+      "license": "expanded",
+      "artist": "solodkayamari",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/70/39/cute-cat-pattern-funny-kitten-vector-22487039.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/70/39/cute-cat-pattern-funny-kitten-vector-22487039.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 19920764,
+      "title": "Adorable Bear Doodle Pattern",
+      "description": "A charming and playful hand-drawn pattern featuring cute bears in a variety of whimsical poses. Perfect for backgrounds, stationery, and decorative projects. This pattern evokes feelings of happiness and warmth.",
+      "license": "expanded",
+      "artist": "Oney_Why",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/07/64/adorable-bear-doodle-pattern-vector-19920764.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/07/64/adorable-bear-doodle-pattern-vector-19920764.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 13367361,
+      "title": "Doodle Apple Pattern",
+      "description": "A vibrant, seamless pattern featuring playful doodles of apples in various styles. Perfect for backgrounds, wrapping paper, or textile applications. This pattern offers a charming and artistic aesthetic.",
+      "license": "expanded",
+      "artist": "HypnoCreative",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/61/doodle-apple-pattern-vector-13367361.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/61/doodle-apple-pattern-vector-13367361.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 10428264,
+      "title": "Floral Paisley Doodle Pattern",
+      "description": "Intricate monochrome seamless pattern featuring delicate paisley and floral elements. Perfect for coloring books, mandalas, or adding a touch of nature to any project. A beautiful and detailed doodle style.",
+      "license": "expanded",
+      "artist": "verock",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/82/64/floral-paisley-doodle-pattern-vector-10428264.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/82/64/floral-paisley-doodle-pattern-vector-10428264.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18397114,
+      "title": "Black and White Line Pattern",
+      "description": "Intricate black and white line pattern. Seamless abstract geometric doodle with repeating linear elements. Ideal for backgrounds and textures.",
+      "license": "expanded",
+      "artist": "Terriana",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/71/14/black-and-white-line-pattern-vector-18397114.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/71/14/black-and-white-line-pattern-vector-18397114.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 46579630,
+      "title": "Abstract Doodle Pattern - Colorful",
+      "description": "A vibrant and intricate abstract background pattern composed of colorful doodles and blots. This seamless pattern is ideal for banners, wallpapers, or decorative elements. It features a playful and artistic style.",
+      "license": "expanded",
+      "artist": "AvaBitter",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 500,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/96/30/abstract-doodle-pattern-colorful-vector-46579630.jpg"
+        },
+        "large": {
+          "width": 999,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/96/30/abstract-doodle-pattern-colorful-vector-46579630.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 34473581,
+      "title": "Abstract Shape Pattern - Modern Doodle",
+      "description": "Vibrant abstract shape pattern featuring organic forms, leaves, and flowers. This seamless doodle set is perfect for social media, backgrounds, and creative projects. A trendy and colorful collection of modern shapes.",
+      "license": "expanded",
+      "artist": "SpicyTruffel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 688,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/35/81/abstract-shape-pattern-modern-doodle-vector-34473581.jpg"
+        },
+        "large": {
+          "width": 1375,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/35/81/abstract-shape-pattern-modern-doodle-vector-34473581.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 9367334,
+      "title": "Gamer Doodle Pattern",
+      "description": "A vibrant, hand-drawn seamless pattern featuring various gamer-related doodles – joysticks, screens, controllers, and more. Perfect for backgrounds, wallpapers, or any project needing a fun, digital gaming aesthetic.",
+      "license": "expanded",
+      "artist": "AuraStock",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/34/gamer-doodle-pattern-vector-9367334.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/34/gamer-doodle-pattern-vector-9367334.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 10092394,
+      "title": "Doodle Sunflower Pattern",
+      "description": "A charming seamless pattern featuring stylized sunflowers in a playful doodle line art style. Perfect for backgrounds, stationery, and various creative projects.",
+      "license": "expanded",
+      "artist": "gollli",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/23/94/doodle-sunflower-pattern-vector-10092394.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/23/94/doodle-sunflower-pattern-vector-10092394.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 39439885,
+      "title": "Hand Drawn Doodle Pattern",
+      "description": "Seamless black and white doodle pattern with minimalistic sketch shapes, dots, and lines. Perfect for backgrounds, patterns, and decorative elements. A collection of simple, repetitive shapes.",
+      "license": "expanded",
+      "artist": "SpicyTruffel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 334,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/98/85/hand-drawn-doodle-pattern-vector-39439885.jpg"
+        },
+        "large": {
+          "width": 667,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/98/85/hand-drawn-doodle-pattern-vector-39439885.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1805600,
+      "title": "Whimsical Drawn Doodle Pattern",
+      "description": "A charming and intricate seamless doodle pattern featuring delicate lines and playful shapes. Perfect for backgrounds, stationery, and creative projects. This pattern evokes a sense of fantasy and joy.",
+      "license": "expanded",
+      "artist": "Iuliia_P",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/56/00/whimsical-drawn-doodle-pattern-vector-1805600.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/56/00/whimsical-drawn-doodle-pattern-vector-1805600.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 8835902,
+      "title": "Mushroom Doodle Seamless Pattern",
+      "description": "Detailed mushroom doodle pattern. A captivating black and white seamless pattern featuring stylized mushrooms and intricate details. Ideal for coloring, wallpaper, or textile applications.",
+      "license": "expanded",
+      "artist": "JuliyaS",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/59/02/mushroom-doodle-seamless-pattern-vector-8835902.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/59/02/mushroom-doodle-seamless-pattern-vector-8835902.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 767835,
+      "title": "Whimsical Doodle Seamless Pattern",
+      "description": "A charming and playful seamless pattern featuring various doodles including bunnies, clouds, leaves, and more. Perfect for backgrounds and creative projects.",
+      "license": "expanded",
+      "artist": "gollli",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/78/35/whimsical-doodle-seamless-pattern-vector-767835.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/78/35/whimsical-doodle-seamless-pattern-vector-767835.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1885093,
+      "title": "Doodle Seamless Pattern - Animals & Coffee",
+      "description": "A vibrant and playful seamless pattern featuring diverse animal doodles, including cats and birds, combined with coffee-related icons. Perfect for backgrounds and decorative elements.",
+      "license": "expanded",
+      "artist": "kostolom3000",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/50/93/doodle-seamless-pattern-animals-coffee-vector-1885093.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/50/93/doodle-seamless-pattern-animals-coffee-vector-1885093.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 996441,
+      "title": "Cute Baby Doodle Pattern",
+      "description": "A charming and playful seamless pattern featuring adorable baby-related doodles. Perfect for backgrounds, wrapping paper, or textile designs. Includes elements like rattles, bottles, diapers, and toys.",
+      "license": "expanded",
+      "artist": "dobric",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/64/41/cute-baby-doodle-pattern-vector-996441.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/64/41/cute-baby-doodle-pattern-vector-996441.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 30348860,
+      "title": "Hand Drawn Circle Pattern",
+      "description": "A vibrant seamless pattern featuring hand-drawn circles in shades of yellow and gold. Ideal for backgrounds, textiles, and decorative projects. This playful and modern pattern evokes a warm and inviting aesthetic.",
+      "license": "expanded",
+      "artist": "StockArtRoom",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/88/60/hand-drawn-circle-pattern-vector-30348860.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/88/60/hand-drawn-circle-pattern-vector-30348860.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 48505763,
+      "title": "Hand Drawn Square Grid Pattern",
+      "description": "A charming, hand-drawn square grid pattern with irregular checks. Perfect for notebooks, stationery, and creative projects. Offers a playful, doodle-like aesthetic. Suitable for backgrounds or textured elements.",
+      "license": "expanded",
+      "artist": "kotofonya",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 500,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/57/63/hand-drawn-square-grid-pattern-vector-48505763.jpg"
+        },
+        "large": {
+          "width": 999,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/57/63/hand-drawn-square-grid-pattern-vector-48505763.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 40401681,
+      "title": "Valentine Hearts Seamless Pattern",
+      "description": "A vibrant and playful seamless pattern featuring numerous hearts in various shapes and sizes. Ideal for romantic backgrounds, decorations, and festive designs.",
+      "license": "expanded",
+      "artist": "incomible",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 525,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/16/81/valentine-hearts-seamless-pattern-vector-40401681.jpg"
+        },
+        "large": {
+          "width": 1049,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/16/81/valentine-hearts-seamless-pattern-vector-40401681.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 25062653,
+      "title": "Sunflowers Doodle Border",
+      "description": "A charming, hand-drawn doodle pattern featuring stylized sunflowers. Perfect for backgrounds, stationery, and decorative projects. This seamless floral border evokes a rustic and natural feel.",
+      "license": "expanded",
+      "artist": "Toltemara",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 375,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/53/sunflowers-doodle-border-vector-25062653.jpg"
+        },
+        "large": {
+          "width": 749,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/53/sunflowers-doodle-border-vector-25062653.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6387730,
+      "title": "drawn christmas toys that hang on strings",
+      "description": "Drawn Christmas toys that hang on strings vector",
+      "license": "expanded",
+      "artist": "talashow",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 343,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/77/30/drawn-christmas-toys-that-hang-on-strings-vector-6387730.jpg"
+        },
+        "large": {
+          "width": 685,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/77/30/drawn-christmas-toys-that-hang-on-strings-vector-6387730.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 133859,
+      "title": "Cute Animal Sketch Pattern",
+      "description": "A charming seamless pattern featuring a variety of adorable animal sketches, including bunnies, pandas, monkeys, and more. Ideal for backgrounds, textiles, and creative projects. A delightful collection of whimsical creatures.",
+      "license": "expanded",
+      "artist": "rln",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/59/cute-animal-sketch-pattern-vector-133859.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/59/cute-animal-sketch-pattern-vector-133859.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 13876493,
+      "title": "black and white seamless pattern",
+      "description": "black and white seamless pattern in a zentangle style, Hand-drawn design illustration",
+      "license": "expanded",
+      "artist": "mIRonchik",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/64/93/black-and-white-seamless-pattern-vector-13876493.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/64/93/black-and-white-seamless-pattern-vector-13876493.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 13459044,
+      "title": "texture of urban pattern",
+      "description": "Texture of urban pattern of isometric city facilities such as homes, buildings, factories, plants and trees. Web elements for background and interactive applications concept",
+      "license": "expanded",
+      "artist": "alexzel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/90/44/texture-of-urban-pattern-vector-13459044.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/90/44/texture-of-urban-pattern-vector-13459044.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 56100919,
+      "title": "seamless hand-drawn crayon doodle pattern",
+      "description": "cin black on a white background. Cute naive-style elements such as hearts, flowers, butterflies, stars, clouds, lightning, and moons.",
+      "license": "exclusive",
+      "artist": "Kolerowa",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 750,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/09/19/seamless-hand-drawn-crayon-doodle-pattern-vector-56100919.jpg"
+        },
+        "large": {
+          "width": 1499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/09/19/seamless-hand-drawn-crayon-doodle-pattern-vector-56100919.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47608425,
+      "title": "seamless pattern with hand painted simple flowers",
+      "description": "Seamless pattern with hand painted simple flowers. Black and white, monochrome colors. Abstarct ink endless cute print for fabric, clothes, dress, wallpaper.",
+      "license": "expanded",
+      "artist": "Olga_C",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 500,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/84/25/seamless-pattern-with-hand-painted-simple-flowers-vector-47608425.jpg"
+        },
+        "large": {
+          "width": 999,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/84/25/seamless-pattern-with-hand-painted-simple-flowers-vector-47608425.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 20399721,
+      "title": "seamless pattern with drawing corn flower",
+      "description": "vector seamless pattern with drawing corn flower at white background, floral ornament with watercolor spots, hand drawn illustration",
+      "license": "expanded",
+      "artist": "cat_arch_angel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/97/21/seamless-pattern-with-drawing-corn-flower-vector-20399721.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/97/21/seamless-pattern-with-drawing-corn-flower-vector-20399721.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 39306690,
+      "title": "autumn fall crop seamless border pattern",
+      "description": "Happy Thanksgiving Day holiday geometric seamless vector border pattern. Cute pumpkin, oak leaves nuts cartoon design element. Autumn Fall harvest holiday festival celebration background illustration",
+      "license": "expanded",
+      "artist": "Lana_Samcorp",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 625,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/66/90/autumn-fall-crop-seamless-border-pattern-vector-39306690.jpg"
+        },
+        "large": {
+          "width": 1249,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/66/90/autumn-fall-crop-seamless-border-pattern-vector-39306690.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 4006592,
+      "title": "seamless pattern background of colorful happy",
+      "description": "colorful happy, smiling fish cartoons. Vector illustration of cartoon fish",
+      "license": "expanded",
+      "artist": "alinabel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/65/92/seamless-pattern-background-of-colorful-happy-vector-4006592.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/65/92/seamless-pattern-background-of-colorful-happy-vector-4006592.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 37905659,
+      "title": "seamless pattern drawn green thin line grid",
+      "description": "Abstract seamless pattern with green thin line grid. Doodle limitless textured creative art geometric repeat ornament. Boundless decor for fabric, paper wrap, print, wallpaper. Vector illustration",
+      "license": "expanded",
+      "artist": "Mooikunst",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 421,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/56/59/seamless-pattern-drawn-green-thin-line-grid-vector-37905659.jpg"
+        },
+        "large": {
+          "width": 841,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/56/59/seamless-pattern-drawn-green-thin-line-grid-vector-37905659.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 20513092,
+      "title": "line art seamless pattern people on the beach",
+      "description": "Line art summer beach logo. Woman jumping into the water, coloring page vector illustration",
+      "license": "expanded",
+      "artist": "Yapanda",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/30/92/line-art-seamless-pattern-people-on-the-beach-vector-20513092.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/30/92/line-art-seamless-pattern-people-on-the-beach-vector-20513092.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 49563688,
+      "title": "pink lines pattern doodle abstract",
+      "description": "Pink lines pattern, doodle abstract pattern. Vector graphics. Seamless pattern",
+      "license": "expanded",
+      "artist": "MarynaSt",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 550,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/36/88/pink-lines-pattern-doodle-abstract-vector-49563688.jpg"
+        },
+        "large": {
+          "width": 1099,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/36/88/pink-lines-pattern-doodle-abstract-vector-49563688.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 28481859,
+      "title": "seamless horizontal pattern flowers in doodle",
+      "description": "seamless horizontal pattern of flowers",
+      "license": "expanded",
+      "artist": "Ollisia",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/18/59/seamless-horizontal-pattern-flowers-in-doodle-vector-28481859.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/18/59/seamless-horizontal-pattern-flowers-in-doodle-vector-28481859.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26014365,
+      "title": "seamless pattern with hand drawn origami birds",
+      "description": "Seamless Pattern with Hand Drawn Origami birds - crane, swan, colibri and dove. Cartoon kids Ornament. Cute doodle vector illustration.",
+      "license": "expanded",
+      "artist": "Valeriya_Dor",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 625,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/43/65/seamless-pattern-with-hand-drawn-origami-birds-vector-26014365.jpg"
+        },
+        "large": {
+          "width": 1249,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/43/65/seamless-pattern-with-hand-drawn-origami-birds-vector-26014365.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 56574244,
+      "title": "seamless doodle background with stylish earrings",
+      "description": "Seamless doodle background with stylish earrings. Cute pattern with hand drawn female bijouterie",
+      "license": "exclusive",
+      "artist": "Olga_Dykun",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 424,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/42/44/seamless-doodle-background-with-stylish-earrings-vector-56574244.jpg"
+        },
+        "large": {
+          "width": 847,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/42/44/seamless-doodle-background-with-stylish-earrings-vector-56574244.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 36053216,
+      "title": "funny kind ox on kick scooter in hand drawn doodle",
+      "description": "Funny kind white ox on kick scooter in hand drawn doodle style seamless pattern. Black outline cute animal symbol of the year for wrapping paper, package, illustration, greeting card.",
+      "license": "expanded",
+      "artist": "RinaKa",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 397,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/32/16/funny-kind-ox-on-kick-scooter-in-hand-drawn-doodle-vector-36053216.jpg"
+        },
+        "large": {
+          "width": 793,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/32/16/funny-kind-ox-on-kick-scooter-in-hand-drawn-doodle-vector-36053216.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 34526342,
+      "title": "doodle contemporary pattern seamless decoration",
+      "description": "doodle contemporary pattern seamless decoration abstract shapes vector illustration",
+      "license": "exclusive",
+      "artist": "Stockgiu",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/63/42/doodle-contemporary-pattern-seamless-decoration-vector-34526342.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/63/42/doodle-contemporary-pattern-seamless-decoration-vector-34526342.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 51730952,
+      "title": "cat in doodle style simple seamless pattern",
+      "description": "Cat in doodle style. Simple seamless pattern. Vector illustration.",
+      "license": "expanded",
+      "artist": "VolhaBubnova",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 228,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/09/52/cat-in-doodle-style-simple-seamless-pattern-vector-51730952.jpg"
+        },
+        "large": {
+          "width": 455,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/09/52/cat-in-doodle-style-simple-seamless-pattern-vector-51730952.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 44303058,
+      "title": "fun colorful line doodle seamless pattern",
+      "description": "Fun colorful line doodle seamless pattern. Vector illustration",
+      "license": "expanded",
+      "artist": "v-vetnel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/30/58/fun-colorful-line-doodle-seamless-pattern-vector-44303058.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/30/58/fun-colorful-line-doodle-seamless-pattern-vector-44303058.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 49710548,
+      "title": "doodle kids cartoon octopus seamless pattern",
+      "description": "Doodle kids cartoon octopus seamless pattern illustration sketch hand draw element",
+      "license": "exclusive",
+      "artist": "ivandaariefb",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/05/48/doodle-kids-cartoon-octopus-seamless-pattern-vector-49710548.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/05/48/doodle-kids-cartoon-octopus-seamless-pattern-vector-49710548.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1113019,
+      "title": "Science Doodle Pattern",
+      "description": "A vibrant and playful pattern featuring doodles of scientific elements and icons. Perfect for backgrounds, stationery, and creative projects. The artwork showcases a collection of hand-drawn scientific symbols and shapes arranged in a seamless pattern.",
+      "license": "expanded",
+      "artist": "lhfgraphics",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/30/19/science-doodle-pattern-vector-1113019.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/30/19/science-doodle-pattern-vector-1113019.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 976170,
+      "title": "Heart Pattern Sketch",
+      "description": "A charming and playful pattern featuring a repeating design of stylized hearts in shades of pink and beige. The style evokes a hand-drawn aesthetic, perfect for Valentine's Day or any occasion celebrating love. The pattern is seamless and has a delicate,",
+      "license": "expanded",
+      "artist": "redcollegiya",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/61/70/heart-pattern-sketch-vector-976170.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/61/70/heart-pattern-sketch-vector-976170.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 30418055,
+      "title": "Fir Tree Seamless Pattern",
+      "description": "Elegant monochrome pattern featuring small, hand-drawn fir trees. Perfect for textile design, wrapping paper, fabric, digital papers, and decorative prints. A festive and simple winter scene.",
+      "license": "expanded",
+      "artist": "svetolk",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/80/55/fir-tree-seamless-pattern-vector-30418055.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/80/55/fir-tree-seamless-pattern-vector-30418055.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 2042174,
+      "title": "Baby Clothes on Clothesline - Seamless Pattern",
+      "description": "A charming seamless pattern featuring baby clothes hanging on a clothesline. Perfect for backgrounds, stationery, and related themes.",
+      "license": "exclusive",
+      "artist": "kytalpa",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 259,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/21/74/baby-clothes-on-clothesline-seamless-pattern-vector-2042174.jpg"
+        },
+        "large": {
+          "width": 517,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/21/74/baby-clothes-on-clothesline-seamless-pattern-vector-2042174.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 9654403,
+      "title": "Hand Drawn Heart Pattern",
+      "description": "A seamless monochrome pattern featuring delicate hand-drawn hearts. Perfect for Valentine's Day or any occasion requiring a romantic touch. This pattern is ideal for backgrounds, wallpaper, or textile applications.",
+      "license": "expanded",
+      "artist": "Alliya2000",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/44/03/hand-drawn-heart-pattern-vector-9654403.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/44/03/hand-drawn-heart-pattern-vector-9654403.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27285217,
+      "title": "Scribbled Stripes Pattern",
+      "description": "Monochrome pattern featuring irregular scribbled stripes. Ideal for backgrounds, wallpaper, or print projects. A simple and modern aesthetic with a slightly distressed texture.",
+      "license": "expanded",
+      "artist": "Asya_Mix",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/52/17/scribbled-stripes-pattern-vector-27285217.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/52/17/scribbled-stripes-pattern-vector-27285217.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 30773466,
+      "title": "Musical Note Seamless Pattern",
+      "description": "A vibrant, hand-drawn music note background pattern, ideal for creating colorful designs and patterns. Features a playful doodle style, perfect for creative projects and backgrounds.",
+      "license": "expanded",
+      "artist": "kolonko",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/34/66/musical-note-seamless-pattern-vector-30773466.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/34/66/musical-note-seamless-pattern-vector-30773466.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 13837314,
+      "title": "Ocean Wave Pattern",
+      "description": "Intricate seamless pattern featuring stylized ocean waves. This textured background evokes a sense of marine beauty, ideal for print, cards, textiles, or wrapping. A captivating abstract water motif.",
+      "license": "expanded",
+      "artist": "Tanjulchik",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/14/ocean-wave-pattern-vector-13837314.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/14/ocean-wave-pattern-vector-13837314.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 927786,
+      "title": "Childhood Pattern",
+      "description": "A vibrant and playful seamless pattern featuring whimsical doodles of children engaged in various activities. Perfect for backgrounds, wallpapers, and creative projects.",
+      "license": "expanded",
+      "artist": "ayelet_keshet",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/77/86/childhood-pattern-vector-927786.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/77/86/childhood-pattern-vector-927786.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 25971392,
+      "title": "Hand Drawn Checkered Pattern",
+      "description": "Seamless pattern design featuring artistic, hand-drawn lines and a checkered grid. This creative background is ideal for scrapbooking, wallpaper, or decorative projects.",
+      "license": "expanded",
+      "artist": "HypnoCreative",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/13/92/hand-drawn-checkered-pattern-vector-25971392.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/13/92/hand-drawn-checkered-pattern-vector-25971392.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26509397,
+      "title": "Lemon Branch Seamless Pattern",
+      "description": "Watercolor lemon branch and leaf pattern on black. Ideal for backgrounds, textiles, and decorative applications. A refreshing and vibrant pattern featuring stylized lemons and leaves.",
+      "license": "expanded",
+      "artist": "lenalivaya",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/93/97/lemon-branch-seamless-pattern-vector-26509397.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/93/97/lemon-branch-seamless-pattern-vector-26509397.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47717376,
+      "title": "Cute Dino Seamless Pattern",
+      "description": "A charming and playful seamless pattern featuring hand-drawn dinosaurs. Perfect for creating vibrant backgrounds for children's fabrics, textiles, or wallpapers.",
+      "license": "expanded",
+      "artist": "solodkayamari",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/76/cute-dino-seamless-pattern-vector-47717376.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/76/cute-dino-seamless-pattern-vector-47717376.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 45492540,
+      "title": "Floral Brush Pattern - Hand Drawn",
+      "description": "A delicate floral pattern created with brushstrokes. This seamless floral design features a charming, hand-drawn aesthetic, perfect for fabric, wrapping paper, or wallpaper. It evokes a bohemian and natural feel.",
+      "license": "expanded",
+      "artist": "JENYA777LEVCHEN",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/25/40/floral-brush-pattern-hand-drawn-vector-45492540.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/25/40/floral-brush-pattern-hand-drawn-vector-45492540.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 37754054,
+      "title": "Forest Animals Pattern",
+      "description": "A whimsical seamless pattern featuring adorable polar bears, bunnies, and a lush forest setting. Perfect for textile designs, wallpapers, or children's prints. Features playful shapes and a charming, hand-drawn aesthetic.",
+      "license": "expanded",
+      "artist": "solodkayamari",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/40/54/forest-animals-pattern-vector-37754054.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/40/54/forest-animals-pattern-vector-37754054.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 29148310,
+      "title": "Hand Drawn Floral Branch Pattern",
+      "description": "A delicate and intricate floral pattern featuring hand-drawn branches and leaves. Perfect for textile design, wallpaper, or wrapping paper. Creates a natural and organic aesthetic. Easily adaptable for different color schemes.",
+      "license": "expanded",
+      "artist": "creativika",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/83/10/hand-drawn-floral-branch-pattern-vector-29148310.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/83/10/hand-drawn-floral-branch-pattern-vector-29148310.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 43997692,
+      "title": "Cute Hand Drawn Pumpkin Pattern",
+      "description": "Adorable hand-drawn pumpkin seamless pattern. Perfect for autumn decorations, Thanksgiving designs, textiles, wrapping paper, and backgrounds. A charming and festive motif.",
+      "license": "expanded",
+      "artist": "vialis",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/76/92/cute-hand-drawn-pumpkin-pattern-vector-43997692.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/76/92/cute-hand-drawn-pumpkin-pattern-vector-43997692.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 31634831,
+      "title": "Guitar Pattern - Hand Drawn Seamless",
+      "description": "Detailed hand-drawn guitar pattern, perfect for textiles, backgrounds, or creative projects. A vibrant and intricate design featuring a guitar motif, ideal for print and fabric applications.",
+      "license": "expanded",
+      "artist": "Black-Sun",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/48/31/guitar-pattern-hand-drawn-seamless-vector-31634831.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/48/31/guitar-pattern-hand-drawn-seamless-vector-31634831.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 31290683,
+      "title": "Cute Panda Seamless Pattern",
+      "description": "Adorable panda bear seamless pattern. Perfect for backgrounds, scrapbooking, or textile designs. A charming doodle with a playful panda face.",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/06/83/cute-panda-seamless-pattern-vector-31290683.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/06/83/cute-panda-seamless-pattern-vector-31290683.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27771423,
+      "title": "Monochrome Ink Diagonal Strokes",
+      "description": "A seamless pattern of black ink diagonal strokes creates a dynamic and textured background. This hand-drawn effect offers a modern and artistic feel, perfect for decorative or artistic applications. The pattern features slanted brush strokes, resembling a",
+      "license": "expanded",
+      "artist": "Samolevsky",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/14/23/monochrome-ink-diagonal-strokes-vector-27771423.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/14/23/monochrome-ink-diagonal-strokes-vector-27771423.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21756733,
+      "title": "Rough Geometric Line Pattern",
+      "description": "A distressed, hand-drawn style seamless pattern featuring interlocking geometric lines in black and white. Creates a grungy, abstract background suitable for various applications, including textiles, wrapping paper, and decorative elements.",
+      "license": "expanded",
+      "artist": "Samolevsky",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/67/33/rough-geometric-line-pattern-vector-21756733.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/67/33/rough-geometric-line-pattern-vector-21756733.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 20237689,
+      "title": "Hand Drawn Wine Pattern",
+      "description": "A seamless pattern featuring hand-drawn wine bottles, wine glasses, and grapes. Perfect for backgrounds, stationery, packaging, or decorative elements. A rustic and elegant aesthetic.",
+      "license": "expanded",
+      "artist": "masay",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/76/89/hand-drawn-wine-pattern-vector-20237689.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/76/89/hand-drawn-wine-pattern-vector-20237689.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 20686398,
+      "title": "Heart Sketch Pattern - Seamless",
+      "description": "A charming, hand-drawn heart pattern, perfect for backgrounds, wrapping paper, or adding a romantic touch. This seamless pattern evokes feelings of love and celebration, ideal for Valentine's Day, Women's Day, or any occasion where a touch of sweetness is",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/63/98/heart-sketch-pattern-seamless-vector-20686398.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/63/98/heart-sketch-pattern-seamless-vector-20686398.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 23014468,
+      "title": "Hand Drawn Pumpkin Farm Pattern",
+      "description": "A charming, seamless pattern featuring hand-drawn pumpkins and a rustic farm aesthetic. Perfect for autumn-themed backgrounds, textiles, or stationery. This collection evokes a sense of warmth and harvest.",
+      "license": "expanded",
+      "artist": "Nutela_Pancake",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/44/68/hand-drawn-pumpkin-farm-pattern-vector-23014468.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/44/68/hand-drawn-pumpkin-farm-pattern-vector-23014468.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 57977185,
+      "title": "seamless pattern featuring hand-drawn of brown",
+      "description": "Seamless vector pattern featuring hand-drawn illustrations of brown mushrooms and green pine sprigs on a muted beige background, creating a natural and autumnal design.",
+      "license": "expanded",
+      "artist": "Elatedowl",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/71/85/seamless-pattern-featuring-hand-drawn-of-brown-vector-57977185.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/71/85/seamless-pattern-featuring-hand-drawn-of-brown-vector-57977185.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 35995377,
+      "title": "Tropical Palm Doodle Pattern",
+      "description": "A charming, seamless pattern featuring hand-drawn palm trees in a doodle style. Perfect for textile, wallpaper, or gift wrap. Bright green color palette creates a vibrant, summery feel. Ideal for creating playful and refreshing designs.",
+      "license": "expanded",
+      "artist": "Lidiia_art",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/53/77/tropical-palm-doodle-pattern-vector-35995377.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/53/77/tropical-palm-doodle-pattern-vector-35995377.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 25540836,
+      "title": "Floral Sketch Pattern - Tulips & Wildflowers",
+      "description": "A charming, hand-drawn seamless pattern featuring stylized tulips and wildflowers. This delicate design evokes a naive aesthetic, perfect for wrapping paper, textile designs, or wallpaper. A playful, doodle-style arrangement with a rich green backdrop.",
+      "license": "expanded",
+      "artist": "Galuniki",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/08/36/floral-sketch-pattern-tulips-wildflowers-vector-25540836.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/08/36/floral-sketch-pattern-tulips-wildflowers-vector-25540836.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21991809,
+      "title": "Halloween Seamless Pattern - Sketch",
+      "description": "A charming Halloween seamless pattern featuring hand-drawn sketched elements. Perfect for party invitations, banners, or decorative backgrounds. Evokes a spooky and festive mood.",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/18/09/halloween-seamless-pattern-sketch-vector-21991809.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/18/09/halloween-seamless-pattern-sketch-vector-21991809.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 58869444,
+      "title": "Hand-Drawn Botanical Tree Pattern",
+      "description": "A beautiful seamless pattern featuring delicate hand-drawn trees and foliage. Perfect for creating natural and artistic backgrounds, textile designs, or decorative elements. Offers a sophisticated and organic feel.",
+      "license": "exclusive",
+      "artist": "ivandaariefb",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/94/44/hand-drawn-botanical-tree-pattern-vector-58869444.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/94/44/hand-drawn-botanical-tree-pattern-vector-58869444.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 57739177,
+      "title": "lychee branch with leaves and sweet treat text",
+      "description": "a black and white lychee branch with leaves and sweet treat text is perfect for a coloring page or botanical illustration project.",
+      "license": "expanded",
+      "artist": "Sumitkhan",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/91/77/lychee-branch-with-leaves-and-sweet-treat-text-vector-57739177.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/91/77/lychee-branch-with-leaves-and-sweet-treat-text-vector-57739177.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 57743257,
+      "title": "car icon symbol cat lover clip art",
+      "description": "car icon symbol cat lover clip art illustration design",
+      "license": "expanded",
+      "artist": "p_graph",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/32/57/car-icon-symbol-cat-lover-clip-art-vector-57743257.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/32/57/car-icon-symbol-cat-lover-clip-art-vector-57743257.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 57650416,
+      "title": "marker strokes collection for your design works",
+      "description": "Marker strokes collection for your design works. Doodle lines, various dividers for web sites. EPS 10",
+      "license": "exclusive",
+      "artist": "Tedisutardi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/04/16/marker-strokes-collection-for-your-design-works-vector-57650416.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/04/16/marker-strokes-collection-for-your-design-works-vector-57650416.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 57219551,
+      "title": "shape of green tree with leaves and roots",
+      "description": "Shape of Green Tree with Leaves and Roots. Vector outline Illustration. Plant in Garden.",
+      "license": "expanded",
+      "artist": "topor",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 224,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/95/51/shape-of-green-tree-with-leaves-and-roots-vector-57219551.jpg"
+        },
+        "large": {
+          "width": 447,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/95/51/shape-of-green-tree-with-leaves-and-roots-vector-57219551.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 56687044,
+      "title": "set of trees outline plant on white background",
+      "description": "Collection of Trees. Vector outline Illustration. Plant in Garden.",
+      "license": "expanded",
+      "artist": "topor",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 281,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/70/44/set-of-trees-outline-plant-on-white-background-vector-56687044.jpg"
+        },
+        "large": {
+          "width": 561,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/70/44/set-of-trees-outline-plant-on-white-background-vector-56687044.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 56277358,
+      "title": "coconut continuous one line drawing set",
+      "description": "Coconut continuous one line drawing set. Outline coconut fruit icon collections isolated on a white background. Editable stroke. Vector illustration",
+      "license": "exclusive",
+      "artist": "MegaShabanov",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 375,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/58/coconut-continuous-one-line-drawing-set-vector-56277358.jpg"
+        },
+        "large": {
+          "width": 749,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/58/coconut-continuous-one-line-drawing-set-vector-56277358.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 56078585,
+      "title": "butterfly with decorative wing",
+      "description": "Black and white butterfly vector illustration with decorative wings",
+      "license": "exclusive",
+      "artist": "Satueway",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/85/85/butterfly-with-decorative-wing-vector-56078585.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/85/85/butterfly-with-decorative-wing-vector-56078585.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 55829955,
+      "title": "doodle fluffy clouds flat outline puffy",
+      "description": "Doodle fluffy clouds. Flat outline clouds. Puffy, cumulus clouds shapes. Cloudy forms simple mockups. Weather element minimalist templates. Objects cloudscape layouts. Hand drawn black cute icons.",
+      "license": "expanded",
+      "artist": "Olekseichuk",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 428,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/99/55/doodle-fluffy-clouds-flat-outline-puffy-vector-55829955.jpg"
+        },
+        "large": {
+          "width": 855,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/99/55/doodle-fluffy-clouds-flat-outline-puffy-vector-55829955.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 55597368,
+      "title": "stained glass",
+      "description": "A woman creates and restores stained glass windows. She works with glass, soldering small elements into a whole with a soldering iron. Painstaking work to create stained glass.",
+      "license": "expanded",
+      "artist": "Myrasha",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 450,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/68/stained-glass-vector-55597368.jpg"
+        },
+        "large": {
+          "width": 899,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/68/stained-glass-vector-55597368.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 55496922,
+      "title": "kaffir lime silhouette art black and white",
+      "description": "Kaffir Lime Silhouette Vector Art | Black and White Kaffir Lime Fruit Illustration",
+      "license": "expanded",
+      "artist": "DesignConcepts1",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/69/22/kaffir-lime-silhouette-art-black-and-white-vector-55496922.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/69/22/kaffir-lime-silhouette-art-black-and-white-vector-55496922.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 55262462,
+      "title": "abstract a girl with spring colorful",
+      "description": "Vector abstract illustration. A girl with spring colorful flowers in her hair.",
+      "license": "expanded",
+      "artist": "Sofya22",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/24/62/abstract-a-girl-with-spring-colorful-vector-55262462.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/24/62/abstract-a-girl-with-spring-colorful-vector-55262462.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 54701416,
+      "title": "grunge style pretzel seamless pattern",
+      "description": "Grunge style pretzel seamless pattern with Oktoberfest snack silhouettes. Festive texture for decorative backgrounds baner. Flat vector illustration isolated",
+      "license": "expanded",
+      "artist": "Viktorialost",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 732,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/14/16/grunge-style-pretzel-seamless-pattern-vector-54701416.jpg"
+        },
+        "large": {
+          "width": 1463,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/14/16/grunge-style-pretzel-seamless-pattern-vector-54701416.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 54580044,
+      "title": "heart set love icons design",
+      "description": "Heart vector set. Love icons design of illustration",
+      "license": "expanded",
+      "artist": "designorTG",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 500,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/00/44/heart-set-love-icons-design-vector-54580044.jpg"
+        },
+        "large": {
+          "width": 999,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/00/44/heart-set-love-icons-design-vector-54580044.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 54517298,
+      "title": "string of lights in line with sketchy doodle art",
+      "description": "String of lights in line with sketchy doodle art. Decorative border for Christmas holiday and party designs. Flat vector illustration isolated on white background.",
+      "license": "expanded",
+      "artist": "Viktorialost",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 750,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/72/98/string-of-lights-in-line-with-sketchy-doodle-art-vector-54517298.jpg"
+        },
+        "large": {
+          "width": 1499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/72/98/string-of-lights-in-line-with-sketchy-doodle-art-vector-54517298.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53824589,
+      "title": "black outlines of autumn leaves",
+      "description": "Hand drawn doodles on a white background. Pattern illustration for textile print, wrapping paper, wallpaper, coloring pages, graphic design projects, nature themed branding, packaging, patterns, and seasonal designs.",
+      "license": "expanded",
+      "artist": "ArtbyLegalMind",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/45/89/black-outlines-of-autumn-leaves-vector-53824589.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/45/89/black-outlines-of-autumn-leaves-vector-53824589.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53476536,
+      "title": "simple delicate flowers leaves and branches",
+      "description": "A collection of simple, delicate hand-drawn flowers, leaves, and branches that evoke a natural, whimsical elegance.",
+      "license": "expanded",
+      "artist": "Pavell",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 375,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/65/36/simple-delicate-flowers-leaves-and-branches-vector-53476536.jpg"
+        },
+        "large": {
+          "width": 749,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/65/36/simple-delicate-flowers-leaves-and-branches-vector-53476536.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53384862,
+      "title": "flower silhouette icon black",
+      "description": "Flower silhouette icon black flower",
+      "license": "expanded",
+      "artist": "pritamdesign",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 410,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/48/62/flower-silhouette-icon-black-vector-53384862.jpg"
+        },
+        "large": {
+          "width": 819,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/48/62/flower-silhouette-icon-black-vector-53384862.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53244165,
+      "title": "geometric - minimalist and simple silhouette",
+      "description": "A simple black and white vector illustration showcasing clean lines and contrasting shades",
+      "license": "exclusive",
+      "artist": "CreativeOasis",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/41/65/geometric-minimalist-and-simple-silhouette-vector-53244165.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/41/65/geometric-minimalist-and-simple-silhouette-vector-53244165.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 51754284,
+      "title": "a series of horses are shown in various poses",
+      "description": "A series of horses are shown in various poses, with some standing and others walking. The horses are all black and white, and they appear to be in a line",
+      "license": "expanded",
+      "artist": "Toonsteb",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 375,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/42/84/a-series-of-horses-are-shown-in-various-poses-vector-51754284.jpg"
+        },
+        "large": {
+          "width": 749,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/42/84/a-series-of-horses-are-shown-in-various-poses-vector-51754284.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 43987283,
+      "title": "eye with floral elements",
+      "description": "Vector doodle tribal eye with floral elements",
+      "license": "exclusive",
+      "artist": "galina",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 495,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/72/83/eye-with-floral-elements-vector-43987283.jpg"
+        },
+        "large": {
+          "width": 989,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/72/83/eye-with-floral-elements-vector-43987283.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 48229242,
+      "title": "evil eye",
+      "description": "Evil eye seamless pattern. Turkish eye bead background. Seamless pattern",
+      "license": "exclusive",
+      "artist": "galina",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/92/42/evil-eye-vector-48229242.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/92/42/evil-eye-vector-48229242.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 51280815,
+      "title": "greeting floral card",
+      "description": "Greeting card. Bloo. Vintage floral illustration. Blue and white with bird",
+      "license": "exclusive",
+      "artist": "galina",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 194,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/08/15/greeting-floral-card-vector-51280815.jpg"
+        },
+        "large": {
+          "width": 387,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/08/15/greeting-floral-card-vector-51280815.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47347842,
+      "title": "arabic hamsa background",
+      "description": "Seamless arabic hamsa hand of fatima illustration background pattern in vector",
+      "license": "exclusive",
+      "artist": "galina",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/78/42/arabic-hamsa-background-vector-47347842.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/78/42/arabic-hamsa-background-vector-47347842.jpg"
+        }
+      }
+    }
+  ]
+}

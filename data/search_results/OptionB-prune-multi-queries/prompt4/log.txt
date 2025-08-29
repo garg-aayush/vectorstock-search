@@ -1,0 +1,84 @@
+============================================================
+DATA ANALYSIS
+============================================================
+Total artworks available: 155
+Artworks in multiple folders: 35
+Artworks in single folders: 120
+
+Distribution across search folders:
+  search_1: 100 artworks
+  search_2: 52 artworks
+  search_3: 5 artworks
+  search_4: 29 artworks
+  search_5: 7 artworks
+
+Single folder distribution:
+  search_1: 66 artworks
+  search_2: 22 artworks
+  search_4: 27 artworks
+  search_5: 5 artworks
+
+============================================================
+SUBSET CREATION LOGIC
+============================================================
+Step 1: Selected 35 multi-folder artworks
+Remaining slots to fill: 65
+
+Step 2: Ensuring minimum 10 per search folder
+Current representation from multi-folder artworks:
+  search_1: 34 artworks
+  search_2: 30 artworks
+  search_3: 5 artworks
+  search_4: 2 artworks
+  search_5: 2 artworks
+  search_6: 0 artworks
+Added 8 artworks from search_4 to meet minimum requirement
+Added 5 artworks from search_5 to meet minimum requirement
+
+After meeting minimum requirements:
+Selected artworks: 48
+Remaining slots: 52
+
+Step 3: Filling remaining 52 slots proportionally
+Total remaining artworks available: 107
+Added 32 artworks from search_1 (proportional)
+Added 4 artworks from search_2 (proportional)
+Added 3 artworks from search_4 (proportional)
+
+Step 4: Filling final 13 slots with any available artworks
+Added 13 artworks to reach target size
+
+Step 5: Shuffling the final selection...
+
+============================================================
+FINAL SUBSET SUMMARY
+============================================================
+Target size: 100
+Actual selected artworks: 100
+Final distribution:
+  search_1: 73 artworks
+  search_2: 34 artworks
+  search_3: 5 artworks
+  search_4: 19 artworks
+  search_5: 7 artworks
+  search_6: 0 artworks
+
+Selection reasons:
+  multi_folder: 35 artworks
+  proportional: 39 artworks
+  fill_to_target: 13 artworks
+  min_requirement: 13 artworks
+✅ Subset CSV saved to: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt4/prompt4_subset_100_final.csv
+
+Creating subset JSON from 100 selected artworks...
+✅ Subset JSON saved to: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt4/prompt4_subset_100_final.json
+   Original artworks: 155
+   Subset artworks: 100
+   Found: 100, Missing: 0
+
+============================================================
+PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+📊 CSV subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt4/prompt4_subset_100_final.csv
+📄 JSON subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt4/prompt4_subset_100_final.json
+📄 JSON subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt4/prompt4_subset_100_final.json

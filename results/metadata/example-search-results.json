@@ -1,0 +1,70 @@
+{
+    "results": {
+        "success": true,
+        "images": [
+            {
+                "art_id": 24803078,
+                "title": "portrait a buffalo in psychedelic color",
+                "description": "Graphic print of drawn buffalo. Psychedelic color. Engraving. Portrait of a buffalo",
+                "license": "expanded",
+                "artist": "Alyoha",
+                "credits": 1,
+                "free": false,
+                "preview": {
+                    "small": {
+                        "width": 334,
+                        "height": 250,
+                        "url": "https://cdn.vectorstock.com/i/preview-1x/30/78/portrait-a-buffalo-in-psychedelic-color-vector-24803078.jpg"
+                    },
+                    "large": {
+                        "width": 667,
+                        "height": 500,
+                        "url": "https://cdn.vectorstock.com/i/preview-2x/30/78/portrait-a-buffalo-in-psychedelic-color-vector-24803078.jpg"
+                    }
+                }
+            },
+            {
+                "art_id": 24803085,
+                "title": "stylized buffalo in sunset colors portrait",
+                "description": "Graphic print of drawn buffalo. Sunset colors. Engraving. Portrait of a buffalo",
+                "license": "expanded",
+                "artist": "Alyoha",
+                "credits": 1,
+                "free": false,
+                "preview": {
+                    "small": {
+                        "width": 334,
+                        "height": 250,
+                        "url": "https://cdn.vectorstock.com/i/preview-1x/30/85/stylized-buffalo-in-sunset-colors-portrait-vector-24803085.jpg"
+                    },
+                    "large": {
+                        "width": 667,
+                        "height": 500,
+                        "url": "https://cdn.vectorstock.com/i/preview-2x/30/85/stylized-buffalo-in-sunset-colors-portrait-vector-24803085.jpg"
+                    }
+                }
+            },
+            {
+                "art_id": 24802658,
+                "title": "engraving stylized silver buffalo on black",
+                "description": "Engraving of stylized silver buffalo on black background. Linear drawing. Portrait of a buffalo",
+                "license": "expanded",
+                "artist": "Alyoha",
+                "credits": 1,
+                "free": false,
+                "preview": {
+                    "small": {
+                        "width": 334,
+                        "height": 250,
+                        "url": "https://cdn.vectorstock.com/i/preview-1x/26/58/engraving-stylized-silver-buffalo-on-black-vector-24802658.jpg"
+                    },
+                    "large": {
+                        "width": 667,
+                        "height": 500,
+                        "url": "https://cdn.vectorstock.com/i/preview-2x/26/58/engraving-stylized-silver-buffalo-on-black-vector-24802658.jpg"
+                    }
+                }
+            }
+        ]
+    }
+}

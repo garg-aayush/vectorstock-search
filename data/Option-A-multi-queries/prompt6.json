@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "bold typography \"GOOD VIBES\""
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "bold typography \"GOOD VIBES\"",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "bold typography \"GOOD VIBES\"",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "GOOD VIBES text logo",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "GOOD VIBES lettering outline",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "retro GOOD VIBES wordmark",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

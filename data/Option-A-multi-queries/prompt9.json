@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "japanese wave line art"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "japanese wave line art",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "japanese wave line art",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "hokusai wave logo",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "ocean wave outline",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "traditional japanese wave graphic",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

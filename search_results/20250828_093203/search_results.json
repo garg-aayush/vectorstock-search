@@ -1,0 +1,14 @@
+{
+  "timestamp": "20250828_093203",
+  "query": "A tiger in the city",
+  "parameters_used": {
+    "keywords": "A tiger in the city"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

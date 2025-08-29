@@ -1,0 +1,26 @@
+{
+  "total_unique_artworks": 1,
+  "artworks": [
+    {
+      "art_id": 54542786,
+      "title": "happy cat eating ramen food logo",
+      "description": "Happy cat eating ramen food logo",
+      "license": "standard",
+      "artist": "Hmustofa",
+      "credits": 1,
+      "free": true,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/27/86/happy-cat-eating-ramen-food-logo-vector-54542786.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/27/86/happy-cat-eating-ramen-food-logo-vector-54542786.jpg"
+        }
+      }
+    }
+  ]
+}

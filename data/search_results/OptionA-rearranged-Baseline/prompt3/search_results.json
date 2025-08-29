@@ -1,0 +1,14 @@
+{
+  "timestamp": "20250829_124205",
+  "query": "kawaii cat in a ramen bowl",
+  "parameters_used": {
+    "keywords": "kawaii cat in a ramen bowl"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "vintage motorcycle club emblem"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "vintage motorcycle club emblem",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "vintage motorcycle club emblem",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "retro biker logo",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "motorcycle outline emblem",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis",
+        "keywords": "classic motorbike badge",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "order": "bestmatch"
+    }
+]

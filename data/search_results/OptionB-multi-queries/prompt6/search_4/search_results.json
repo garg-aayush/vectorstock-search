@@ -1,0 +1,60 @@
+{
+  "timestamp": "20250829_175310",
+  "query": "GOOD VIBES text logo",
+  "parameters_used": {
+    "keywords": "GOOD VIBES text logo",
+    "category": "logos",
+    "svg_only": true,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 47561917,
+        "title": "lettering good vibes word peace cannabis leaf",
+        "description": "Lettering good vibes word peace cannabis leaf ornament logo illustrations silhouette vector illustrations for your work logo, merchandise t-shirt, stickers and label designs, poster, greeting cards advertising business company or brands",
+        "license": "exclusive",
+        "artist": "ArtGraris",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/19/17/lettering-good-vibes-word-peace-cannabis-leaf-vector-47561917.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/19/17/lettering-good-vibes-word-peace-cannabis-leaf-vector-47561917.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 8859322,
+        "title": "hand-sketched typographic element with coconut",
+        "description": "Hand-sketched summer element with coconut cocktail and flowers on white background. Text - Good vibes",
+        "license": "expanded",
+        "artist": "Lillia",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 125,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/93/22/hand-sketched-typographic-element-with-coconut-vector-8859322.jpg"
+          },
+          "large": {
+            "width": 249,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/93/22/hand-sketched-typographic-element-with-coconut-vector-8859322.jpg"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "page": 1,
+    "pages": 1
+  }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "Red angry bull"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "Red angry bull",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "Red angry bull",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "furious bull logo",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "bull head outline",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis with red color",
+        "keywords": "angry bull graphic",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "color": "#FF0000",
+        "color_threshold": 7,
+        "order": "bestmatch"
+    }
+]

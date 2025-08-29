@@ -1,0 +1,2111 @@
+{
+  "total_unique_artworks": 100,
+  "selection_metadata": {
+    "original_total": 363,
+    "selected_count": 100,
+    "found_count": 100,
+    "missing_count": 0
+  },
+  "artworks": [
+    {
+      "art_id": 48129070,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "Detailed sugar skull icon, a central motif of the Mexican Day of the Dead celebration. This decorative skull features intricate floral patterns, perfect for festive designs.",
+      "license": "exclusive",
+      "artist": "MrVS",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/90/70/day-of-the-dead-sugar-skull-vector-48129070.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/90/70/day-of-the-dead-sugar-skull-vector-48129070.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 33351092,
+      "title": "Floral Day of the Dead Skull",
+      "description": "A striking illustration featuring a sugar skull adorned with vibrant flowers, embodying the spirit of Día de los Muertos. This artwork captures the beauty and tradition of the holiday with intricate details and a focus on floral elements.",
+      "license": "exclusive",
+      "artist": "xavierdesign",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 168,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/10/92/floral-day-of-the-dead-skull-vector-33351092.jpg"
+        },
+        "large": {
+          "width": 335,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/10/92/floral-day-of-the-dead-skull-vector-33351092.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26525947,
+      "title": "Colorful Sugar Skull with Floral Ornament",
+      "description": "Vibrant and detailed sugar skull illustration featuring intricate floral ornaments and a classic Mexican aesthetic. Perfect for Día de Muertos or Halloween themes.",
+      "license": "expanded",
+      "artist": "imogi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/59/47/colorful-sugar-skull-with-floral-ornament-vector-26525947.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/59/47/colorful-sugar-skull-with-floral-ornament-vector-26525947.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 389891,
+      "title": "Sugar Skull",
+      "description": "Detailed sugar skull decoration, reminiscent of Día de Muertos. Intricate floral patterns and a classic skull motif.",
+      "license": "expanded",
+      "artist": "krookedeye",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 205,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/98/91/sugar-skull-vector-389891.jpg"
+        },
+        "large": {
+          "width": 409,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/98/91/sugar-skull-vector-389891.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 33376662,
+      "title": "Sugar Skull Decoration",
+      "description": "Detailed sugar skull decoration inspired by Day of the Dead (Dia de los Muertos) with intricate floral patterns. A vibrant and ornate skull motif perfect for festive occasions.",
+      "license": "exclusive",
+      "artist": "bogadeva1983",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 223,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/66/62/sugar-skull-decoration-vector-33376662.jpg"
+        },
+        "large": {
+          "width": 445,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/66/62/sugar-skull-decoration-vector-33376662.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 2198198,
+      "title": "Day of the Dead Sugar Skull Icons",
+      "description": "A vibrant collection of sugar skull icons inspired by the traditional Mexican Dia de los Muertos celebration. Featuring intricate floral and diamond patterns, perfect for festive designs.",
+      "license": "expanded",
+      "artist": "RedKoala",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/81/98/day-of-the-dead-sugar-skull-icons-vector-2198198.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/81/98/day-of-the-dead-sugar-skull-icons-vector-2198198.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26598122,
+      "title": "Floral Sugar Skull",
+      "description": "Detailed sugar skull with intricate floral ornamentation and empty eye sockets. This monochrome design evokes the Day of the Dead celebration with a vintage aesthetic.",
+      "license": "expanded",
+      "artist": "imogi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/81/22/floral-sugar-skull-vector-26598122.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/81/22/floral-sugar-skull-vector-26598122.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 23102118,
+      "title": "Sugar Skull Floral Pattern",
+      "description": "A vibrant and intricate seamless pattern featuring sugar skulls surrounded by delicate floral elements, inspired by Mexican Day of the Dead traditions. Perfect for fabric, wallpaper, or decorative accents.",
+      "license": "expanded",
+      "artist": "RedKoala",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 335,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/21/18/sugar-skull-floral-pattern-vector-23102118.jpg"
+        },
+        "large": {
+          "width": 669,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/21/18/sugar-skull-floral-pattern-vector-23102118.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22270255,
+      "title": "Sugar Skull Day of the Dead Skulls",
+      "description": "Intricate sugar skull patterns inspired by Día de los Muertos. These stylized skulls feature ornate floral designs and are perfect for Halloween or Mexican celebrations. A collection of traditional and symbolic skulls.",
+      "license": "exclusive",
+      "artist": "morys",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 190,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/02/55/sugar-skull-day-of-the-dead-skulls-vector-22270255.jpg"
+        },
+        "large": {
+          "width": 379,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/02/55/sugar-skull-day-of-the-dead-skulls-vector-22270255.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21441126,
+      "title": "Day of the Dead Sugar Skull Banner",
+      "description": "Colorful and festive banner featuring a sugar skull design, perfect for Dia de los Muertos celebrations. Vibrant and evocative of Mexican traditions.",
+      "license": "expanded",
+      "artist": "ma_rish",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 310,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/11/26/day-of-the-dead-sugar-skull-banner-vector-21441126.jpg"
+        },
+        "large": {
+          "width": 619,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/11/26/day-of-the-dead-sugar-skull-banner-vector-21441126.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21391849,
+      "title": "Day of the Dead Sugar Skulls",
+      "description": "A vibrant and festive Day of the Dead scene featuring intricately decorated sugar skulls, calaveras (skulls), and traditional Mexican floral patterns. Perfect for celebrating this iconic holiday.",
+      "license": "expanded",
+      "artist": "ma_rish",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 427,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/18/49/day-of-the-dead-sugar-skulls-vector-21391849.jpg"
+        },
+        "large": {
+          "width": 853,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/18/49/day-of-the-dead-sugar-skulls-vector-21391849.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 2514865,
+      "title": "Day of the Dead Sugar Skull Icons",
+      "description": "A vibrant collection of sugar skull icons, celebrating the Mexican tradition of Día de los Muertos. These intricately decorated skulls are a central element of the holiday, symbolizing remembrance and honoring deceased loved ones. Perfect for festive desi",
+      "license": "expanded",
+      "artist": "RedKoala",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/48/65/day-of-the-dead-sugar-skull-icons-vector-2514865.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/48/65/day-of-the-dead-sugar-skull-icons-vector-2514865.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1925431,
+      "title": "Day of the Dead Skull Set",
+      "description": "A striking collection of ornate skull motifs inspired by Día de los Muertos. Perfect for tattoo art, decorative patterns, or spiritual designs. Features intricate floral and swirl details.",
+      "license": "expanded",
+      "artist": "vectorkingdom",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 193,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/54/31/day-of-the-dead-skull-set-vector-1925431.jpg"
+        },
+        "large": {
+          "width": 385,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/54/31/day-of-the-dead-skull-set-vector-1925431.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1803382,
+      "title": "Day of the Dead Sugar Skull Girl",
+      "description": "A striking image featuring a girl with a beautifully decorated sugar skull face, a central motif of Día de Muertos. Vibrant colors and intricate patterns adorn the skull, celebrating the Day of the Dead holiday.",
+      "license": "standard",
+      "artist": "Depiano",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/33/82/day-of-the-dead-sugar-skull-girl-vector-1803382.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/33/82/day-of-the-dead-sugar-skull-girl-vector-1803382.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1803378,
+      "title": "Day of the Dead Sugar Skull Girl",
+      "description": "A beautiful girl adorned with a vibrant sugar skull, celebrating the Day of the Dead. This artwork features intricate floral designs and a classic aesthetic associated with Mexican traditions and remembrance.",
+      "license": "standard",
+      "artist": "Depiano",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/33/78/day-of-the-dead-sugar-skull-girl-vector-1803378.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/33/78/day-of-the-dead-sugar-skull-girl-vector-1803378.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1803264,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "A detailed and realistic depiction of a Day of the Dead sugar skull, featuring intricate floral patterns and a traditional Mexican aesthetic. This artwork celebrates the holiday with a focus on symbolism and beauty.",
+      "license": "expanded",
+      "artist": "krookedeye",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 191,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/32/64/day-of-the-dead-sugar-skull-vector-1803264.jpg"
+        },
+        "large": {
+          "width": 381,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/32/64/day-of-the-dead-sugar-skull-vector-1803264.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1660601,
+      "title": "Sugar Skull Pattern",
+      "description": "A vibrant and intricate pattern featuring a traditional sugar skull, commonly associated with Dia de los Muertos. The artwork showcases detailed floral motifs and swirling lines, creating a festive and symbolic design. Perfect for decorative purposes or a",
+      "license": "expanded",
+      "artist": "ches2013",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/06/01/sugar-skull-pattern-vector-1660601.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/06/01/sugar-skull-pattern-vector-1660601.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 397574,
+      "title": "Sugar Skull with Roses",
+      "description": "Detailed sugar skull tattoo inspired by the Mexican Day of the Dead tradition. Features delicate roses and a striking, ornate design. Perfect for decorative art or related themes.",
+      "license": "expanded",
+      "artist": "zeb_raa",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 377,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/75/74/sugar-skull-with-roses-vector-397574.jpg"
+        },
+        "large": {
+          "width": 753,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/75/74/sugar-skull-with-roses-vector-397574.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 25706820,
+      "title": "Sugar Skull Calavera Set",
+      "description": "A detailed collection of sugar skull and calavera illustrations. Featuring both male and female designs, perfect for Day of the Dead celebrations or decorative purposes. The artwork showcases intricate floral patterns and a spooky aesthetic.",
+      "license": "expanded",
+      "artist": "suricoma",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 416,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/68/20/sugar-skull-calavera-set-vector-25706820.jpg"
+        },
+        "large": {
+          "width": 831,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/68/20/sugar-skull-calavera-set-vector-25706820.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 15511685,
+      "title": "Mexican Sugar Skull Pattern",
+      "description": "Vibrant and intricate Mexican sugar skull pattern, perfect for celebrations and decorative purposes. Features detailed skulls and symbolic elements.",
+      "license": "expanded",
+      "artist": "vectortatu",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/16/85/mexican-sugar-skull-pattern-vector-15511685.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/16/85/mexican-sugar-skull-pattern-vector-15511685.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 848111,
+      "title": "Sugar Skull Katrina",
+      "description": "Detailed sugar skull portrait of a woman, inspired by Day of the Dead traditions. Features intricate skull design with tattoos and floral accents. A striking and symbolic representation of Mexican folklore.",
+      "license": "expanded",
+      "artist": "Elisanth",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 219,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/81/11/sugar-skull-katrina-vector-848111.jpg"
+        },
+        "large": {
+          "width": 437,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/81/11/sugar-skull-katrina-vector-848111.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 43420500,
+      "title": "Day of the Dead Mexican Sugar Skull",
+      "description": "Vibrant Day of the Dead banner featuring a detailed sugar skull design. Rich colors, floral ornaments, and a traditional Mexican aesthetic. Perfect for celebrations and festive decorations.",
+      "license": "exclusive",
+      "artist": "Seamartini",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 253,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/05/00/day-of-the-dead-mexican-sugar-skull-vector-43420500.jpg"
+        },
+        "large": {
+          "width": 505,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/05/00/day-of-the-dead-mexican-sugar-skull-vector-43420500.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 10975557,
+      "title": "Day of the Dead Sugar Skull Pattern",
+      "description": "Intricate black lace sugar skull seamless pattern, perfect for Day of the Dead or Mexican Dia Los Muertos decorations. A spooky and ornate floral motif creates a captivating texture.",
+      "license": "expanded",
+      "artist": "Sveta_Aho",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/55/57/day-of-the-dead-sugar-skull-pattern-vector-10975557.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/55/57/day-of-the-dead-sugar-skull-pattern-vector-10975557.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 17495990,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "Vibrant Day of the Dead sugar skull with intricate floral patterns. A classic symbol of Mexican tradition and remembrance. Perfect for Dia de Muertos celebrations.",
+      "license": "expanded",
+      "artist": "HobbitFoot",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/59/90/day-of-the-dead-sugar-skull-vector-17495990.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/59/90/day-of-the-dead-sugar-skull-vector-17495990.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 4121123,
+      "title": "Day of the Dead Skull Pattern",
+      "description": "A vibrant and intricate seamless pattern featuring skulls in a classic Día de Muertos style. Perfect for decorative wallpapers, textiles, or other creative projects.",
+      "license": "expanded",
+      "artist": "Reinekke",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/11/23/day-of-the-dead-skull-pattern-vector-4121123.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/11/23/day-of-the-dead-skull-pattern-vector-4121123.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 17495986,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "A vibrant and detailed sugar skull design, reminiscent of Día de Muertos. Features intricate floral patterns and a classic skull motif. Perfect for Halloween or Mexican celebrations.",
+      "license": "expanded",
+      "artist": "HobbitFoot",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/59/86/day-of-the-dead-sugar-skull-vector-17495986.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/59/86/day-of-the-dead-sugar-skull-vector-17495986.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 16638169,
+      "title": "Sugar Skull Pattern - Day of the Dead",
+      "description": "Intricate seamless pattern featuring stylized sugar skulls and ornate floral elements, evocative of the Mexican Day of the Dead celebration. A vibrant and detailed motif suitable for various decorative applications.",
+      "license": "expanded",
+      "artist": "masay",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/81/69/sugar-skull-pattern-day-of-the-dead-vector-16638169.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/81/69/sugar-skull-pattern-day-of-the-dead-vector-16638169.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 14992637,
+      "title": "Sugar Skull Alpaca - Day of the Dead",
+      "description": "A vibrant sugar skull alpaca illustration, representing the Mexican Day of the Dead celebration. Features a stylized skull with floral elements, symbolizing remembrance and honoring loved ones.",
+      "license": "expanded",
+      "artist": "PenguinHouse",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/37/sugar-skull-alpaca-day-of-the-dead-vector-14992637.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/37/sugar-skull-alpaca-day-of-the-dead-vector-14992637.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 744814,
+      "title": "La Catrina Sugar Skull",
+      "description": "A striking sugar skull depiction of La Catrina, a prominent figure in Mexican Day of the Dead traditions. This artwork features a beautiful and elegant skull with intricate floral details, embodying the spirit of remembrance and celebration.",
+      "license": "expanded",
+      "artist": "andre_rodrigues",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 148,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/48/14/la-catrina-sugar-skull-vector-744814.jpg"
+        },
+        "large": {
+          "width": 295,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/48/14/la-catrina-sugar-skull-vector-744814.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 575288,
+      "title": "Sugar Skull Ornamental",
+      "description": "A detailed ornamental sugar skull design, featuring intricate swirls and decorative elements. Perfect for festive occasions, Dia de Muertos, or adding a touch of gothic beauty to any project. This image showcases a traditional Mexican style with a focus o",
+      "license": "expanded",
+      "artist": "adiosta",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 182,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/52/88/sugar-skull-ornamental-vector-575288.jpg"
+        },
+        "large": {
+          "width": 363,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/52/88/sugar-skull-ornamental-vector-575288.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 50343983,
+      "title": "Floral Skull with Rose Wreath",
+      "description": "A striking skull adorned with a beautiful rose wreath. This elegant sugar skull design evokes a bohemian and gothic aesthetic, perfect for Halloween or decorative purposes. The intricate floral details create a captivating and artistic piece.",
+      "license": "exclusive",
+      "artist": "AlyaBigJoy",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/39/83/floral-skull-with-rose-wreath-vector-50343983.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/39/83/floral-skull-with-rose-wreath-vector-50343983.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53500359,
+      "title": "Day of the Dead Sugar Skull Bat",
+      "description": "Vibrant sugar skull bat design inspired by Day of the Dead traditions. Intricate floral patterns and skeletal details create a captivating celebration of remembrance and the cycle of life and death. A striking symbol of Mexican culture.",
+      "license": "expanded",
+      "artist": "Buchan",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 430,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/03/59/day-of-the-dead-sugar-skull-bat-vector-53500359.jpg"
+        },
+        "large": {
+          "width": 859,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/03/59/day-of-the-dead-sugar-skull-bat-vector-53500359.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26439689,
+      "title": "Mexican Sugar Skull Art Set",
+      "description": "A striking collection of sugar skull art featuring intricate floral and spiderweb patterns. These monochrome designs celebrate Mexican traditions with a gothic aesthetic, perfect for Dia de Muertos or spooky occasions.",
+      "license": "expanded",
+      "artist": "imogi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 549,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/96/89/mexican-sugar-skull-art-set-vector-26439689.jpg"
+        },
+        "large": {
+          "width": 1097,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/96/89/mexican-sugar-skull-art-set-vector-26439689.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27757294,
+      "title": "Sugar Skull with Floral Border",
+      "description": "A vibrant and detailed sugar skull artwork featuring a delicate floral border. Perfect for Halloween, Día de Muertos, or any occasion celebrating remembrance. A striking decorative element.",
+      "license": "expanded",
+      "artist": "Amillustration",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/72/94/sugar-skull-with-floral-border-vector-27757294.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/72/94/sugar-skull-with-floral-border-vector-27757294.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 2654662,
+      "title": "Floral Sugar Skull - Slavic Folk Art",
+      "description": "A striking sugar skull illustration inspired by Slavic folk art and Dia de los Muertos traditions. Features intricate floral patterns and a detailed skull design. Perfect for celebrating Day of the Dead or showcasing cultural heritage.",
+      "license": "expanded",
+      "artist": "RedKoala",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/46/62/floral-sugar-skull-slavic-folk-art-vector-2654662.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/46/62/floral-sugar-skull-slavic-folk-art-vector-2654662.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1581842,
+      "title": "Sugar Skull Day of the Dead",
+      "description": "A beautiful sugar skull illustration inspired by the traditional Day of the Dead (Dia de los Muertos) celebration. Features intricate floral designs and a stylized skull, representing remembrance and honoring loved ones.",
+      "license": "expanded",
+      "artist": "sateda",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/18/42/sugar-skull-day-of-the-dead-vector-1581842.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/18/42/sugar-skull-day-of-the-dead-vector-1581842.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 53120206,
+      "title": "Floral Day of the Dead Skull",
+      "description": "A detailed sugar skull intricately decorated with ornate floral patterns, reminiscent of traditional Day of the Dead artwork. This black and white engraving evokes a festive and symbolic aesthetic.",
+      "license": "exclusive",
+      "artist": "apokusay",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/02/06/floral-day-of-the-dead-skull-vector-53120206.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/02/06/floral-day-of-the-dead-skull-vector-53120206.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 3624914,
+      "title": "Mexican Sugar Skull Buffalo Skull",
+      "description": "Detailed illustration of a vibrant Mexican sugar skull resembling a buffalo skull. Featuring intricate patterns and a striking color palette. Perfect for Halloween or festive occasions.",
+      "license": "expanded",
+      "artist": "Hellhide",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 337,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/49/14/mexican-sugar-skull-buffalo-skull-vector-3624914.jpg"
+        },
+        "large": {
+          "width": 673,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/49/14/mexican-sugar-skull-buffalo-skull-vector-3624914.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 26460517,
+      "title": "Day of the Dead Sugar Skulls",
+      "description": "Detailed sugar skull decoration inspired by Día de los Muertos. Vibrant floral ornaments and intricate skull patterns evoke the rich traditions of Mexican celebrations. Perfect for Halloween or festive occasions.",
+      "license": "expanded",
+      "artist": "incomible",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 354,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/05/17/day-of-the-dead-sugar-skulls-vector-26460517.jpg"
+        },
+        "large": {
+          "width": 707,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/05/17/day-of-the-dead-sugar-skulls-vector-26460517.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22567563,
+      "title": "Sugar Skull Day of the Dead Banner",
+      "description": "Vibrant sugar skull banner celebrating Día de Muertos with intricate typography and traditional Mexican floral elements. Perfect for festive decorations and greetings.",
+      "license": "expanded",
+      "artist": "cienpies",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 492,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/75/63/sugar-skull-day-of-the-dead-banner-vector-22567563.jpg"
+        },
+        "large": {
+          "width": 983,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/75/63/sugar-skull-day-of-the-dead-banner-vector-22567563.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22325575,
+      "title": "Sugar Skull Day of the Dead",
+      "description": "Detailed sugar skull artwork celebrating Dia de los Muertos. A vibrant and ornate skull with intricate floral patterns. Perfect for festive designs, decorations, or artistic projects. This skull embodies the spirit of Mexican traditions and remembrance.",
+      "license": "expanded",
+      "artist": "masay",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 170,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/55/75/sugar-skull-day-of-the-dead-vector-22325575.jpg"
+        },
+        "large": {
+          "width": 339,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/55/75/sugar-skull-day-of-the-dead-vector-22325575.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22325215,
+      "title": "Sugar Skull with Floral Day of the Dead Pattern",
+      "description": "Detailed sugar skull adorned with intricate floral patterns, a classic symbol of Día de los Muertos. Perfect for holiday decorations, greeting cards, or artwork. Celebrates the rich traditions of Mexico.",
+      "license": "expanded",
+      "artist": "masay",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 204,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/52/15/sugar-skull-with-floral-day-of-the-dead-pattern-vector-22325215.jpg"
+        },
+        "large": {
+          "width": 407,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/52/15/sugar-skull-with-floral-day-of-the-dead-pattern-vector-22325215.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 33164404,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "Vibrant Day of the Dead poster featuring a detailed sugar skull adorned with floral motifs. A classic celebration of Mexican heritage with intricate decoration.",
+      "license": "expanded",
+      "artist": "insemar_vector",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/44/04/day-of-the-dead-sugar-skull-vector-33164404.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/44/04/day-of-the-dead-sugar-skull-vector-33164404.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6122652,
+      "title": "Day of the Dead Skull with Roses",
+      "description": "A vibrant sugar skull adorned with roses, a classic symbol of Dia de Muertos. This image features a detailed skull with floral accents, representing remembrance and honoring deceased loved ones.",
+      "license": "expanded",
+      "artist": "muchmania",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/52/day-of-the-dead-skull-with-roses-vector-6122652.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/52/day-of-the-dead-skull-with-roses-vector-6122652.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 10833266,
+      "title": "Elegant Sugar Skull Catrina",
+      "description": "A detailed and beautiful sugar skull illustration of La Catrina, inspired by traditional Mexican Day of the Dead art. This intricate skull features delicate floral elements and a classic pose, reflecting the spirit of remembrance and celebration. Perfect",
+      "license": "expanded",
+      "artist": "Akos",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 177,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/32/66/elegant-sugar-skull-catrina-vector-10833266.jpg"
+        },
+        "large": {
+          "width": 353,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/32/66/elegant-sugar-skull-catrina-vector-10833266.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6454062,
+      "title": "Sugar Skull Girl with Floral Crown",
+      "description": "A beautiful sugar skull girl adorned with a vibrant flower crown, reminiscent of Día de Muertos (Day of the Dead) celebrations. The intricate skull design and colorful floral wreath create a stunning visual.",
+      "license": "expanded",
+      "artist": "artshock",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 204,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/40/62/sugar-skull-girl-with-floral-crown-vector-6454062.jpg"
+        },
+        "large": {
+          "width": 407,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/40/62/sugar-skull-girl-with-floral-crown-vector-6454062.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22641700,
+      "title": "Decorative Sugar Skull",
+      "description": "Intricate graphic of a decorative sugar skull, a classic symbol of Dia de Muertos. This vibrant skull is a beautiful representation of Mexican culture and the Day of the Dead.",
+      "license": "expanded",
+      "artist": "Alyoha",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/17/00/decorative-sugar-skull-vector-22641700.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/17/00/decorative-sugar-skull-vector-22641700.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21908274,
+      "title": "Sugar Skull with Roses - Day of the Dead",
+      "description": "Vibrant neon color illustration of a sugar skull adorned with pink roses, celebrating the Day of the Dead. A striking and festive floral motif, perfect for Mexican holiday themes.",
+      "license": "expanded",
+      "artist": "Veleri",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/82/74/sugar-skull-with-roses-day-of-the-dead-vector-21908274.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/82/74/sugar-skull-with-roses-day-of-the-dead-vector-21908274.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21908271,
+      "title": "Sugar Skull & Roses - Day of the Dead",
+      "description": "A vibrant and intricate seamless pattern featuring sugar skulls and delicate roses, evoking the spirit of the Day of the Dead. Perfect for decorative wallpapers, textiles, and artistic projects. A rich, festive aesthetic.",
+      "license": "expanded",
+      "artist": "Veleri",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 262,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/82/71/sugar-skull-roses-day-of-the-dead-vector-21908271.jpg"
+        },
+        "large": {
+          "width": 523,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/82/71/sugar-skull-roses-day-of-the-dead-vector-21908271.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 7709889,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "A vibrant Day of the Dead (Dia de los Muertos) sugar skull illustration. Featuring intricate floral patterns and a classic skull motif, perfect for celebrating the holiday.",
+      "license": "expanded",
+      "artist": "KlausKunstler",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/98/89/day-of-the-dead-sugar-skull-vector-7709889.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/98/89/day-of-the-dead-sugar-skull-vector-7709889.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 34582094,
+      "title": "Sugar Skull Pray",
+      "description": "A striking image featuring a praying skull adorned with vibrant floral elements, reminiscent of traditional Día de Muertos sugar skulls. This captivating artwork captures the essence of Mexican remembrance and celebration, perfect for decorative or themat",
+      "license": "expanded",
+      "artist": "tshirtfactory",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 157,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/20/94/sugar-skull-pray-vector-34582094.jpg"
+        },
+        "large": {
+          "width": 313,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/20/94/sugar-skull-pray-vector-34582094.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 9443386,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "Intricate sugar skull design celebrating Día de Muertos with ornate floral patterns and a traditional Mexican aesthetic. A beautiful symbol of remembrance and honoring loved ones.",
+      "license": "exclusive",
+      "artist": "Pokki",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 189,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/33/86/day-of-the-dead-sugar-skull-vector-9443386.jpg"
+        },
+        "large": {
+          "width": 377,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/33/86/day-of-the-dead-sugar-skull-vector-9443386.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 42968705,
+      "title": "Sugar Skull Sombrero - Day of the Dead",
+      "description": "A vibrant sugar skull design featuring a sombrero, a central motif of the Day of the Dead celebration. This decorative artwork blends traditional Mexican symbolism with a festive aesthetic.",
+      "license": "exclusive",
+      "artist": "EdvaruKun",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/87/05/sugar-skull-sombrero-day-of-the-dead-vector-42968705.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/87/05/sugar-skull-sombrero-day-of-the-dead-vector-42968705.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21842612,
+      "title": "Floral Sugar Skull - Day of the Dead",
+      "description": "Detailed sugar skull artwork featuring intricate floral patterns, perfect for celebrating Mexican Day of the Dead. A vibrant and symbolic representation of this traditional holiday.",
+      "license": "expanded",
+      "artist": "BocharovaOlha",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/12/floral-sugar-skull-day-of-the-dead-vector-21842612.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/12/floral-sugar-skull-day-of-the-dead-vector-21842612.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21298132,
+      "title": "Day of the Dead Skull with Floral Decorations",
+      "description": "A vibrant Day of the Dead skull adorned with intricate floral ornaments. This striking image captures the essence of the Mexican celebration, featuring rich colors and detailed patterns. Perfect for Halloween or festive occasions.",
+      "license": "expanded",
+      "artist": "MorkovkaPixel",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 191,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/81/32/day-of-the-dead-skull-with-floral-decorations-vector-21298132.jpg"
+        },
+        "large": {
+          "width": 381,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/81/32/day-of-the-dead-skull-with-floral-decorations-vector-21298132.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 51641329,
+      "title": "Sugar Skull Ornament",
+      "description": "Detailed sugar skull ornament featuring intricate floral patterns and decorative elements, suitable for various applications including tattoos, stationery, and artistic projects.",
+      "license": "exclusive",
+      "artist": "CherryDijitalAr",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 251,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/13/29/sugar-skull-ornament-vector-51641329.jpg"
+        },
+        "large": {
+          "width": 501,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/13/29/sugar-skull-ornament-vector-51641329.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6334746,
+      "title": "Sugar Skull Girl with Flower Crown",
+      "description": "A vibrant and detailed sugar skull girl adorned with a beautiful flower wreath, reminiscent of Día de Muertos. The image captures the essence of the Mexican celebration with its intricate skull design and colorful floral elements.",
+      "license": "expanded",
+      "artist": "artshock",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 340,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/47/46/sugar-skull-girl-with-flower-crown-vector-6334746.jpg"
+        },
+        "large": {
+          "width": 679,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/47/46/sugar-skull-girl-with-flower-crown-vector-6334746.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 48549109,
+      "title": "Sugar Skull Woman with Flowers",
+      "description": "A beautiful monochrome sugar skull adorned with vibrant flowers, inspired by Day of the Dead traditions. This intricate skull design features delicate floral details and a striking aesthetic. Perfect for Halloween or festive occasions.",
+      "license": "expanded",
+      "artist": "Lekichik",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/91/09/sugar-skull-woman-with-flowers-vector-48549109.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/91/09/sugar-skull-woman-with-flowers-vector-48549109.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 52521585,
+      "title": "Sugar Skull Floral Pattern",
+      "description": "A vibrant and detailed seamless pattern featuring sugar skulls surrounded by delicate flower wreaths. Perfect for decorative applications.",
+      "license": "expanded",
+      "artist": "Katy-cat",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/15/85/sugar-skull-floral-pattern-vector-52521585.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/15/85/sugar-skull-floral-pattern-vector-52521585.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27276971,
+      "title": "Colorful Sugar Skulls - Day of the Dead",
+      "description": "A vibrant collection of four sugar skull illustrations, perfect for Dia de los Muertos celebrations. These detailed skulls feature intricate floral patterns and colorful embellishments, evoking the spirit of Mexican tradition. Ideal for decorative purpose",
+      "license": "exclusive",
+      "artist": "mihmihmal",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 663,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/69/71/colorful-sugar-skulls-day-of-the-dead-vector-27276971.jpg"
+        },
+        "large": {
+          "width": 1325,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/69/71/colorful-sugar-skulls-day-of-the-dead-vector-27276971.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22316982,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "Vibrant Day of the Dead skull adorned with intricate floral patterns. A classic Mexican sugar skull design, perfect for celebrations and honoring loved ones. Dark background enhances the rich colors.",
+      "license": "expanded",
+      "artist": "cosmaa",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 229,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/69/82/day-of-the-dead-sugar-skull-vector-22316982.jpg"
+        },
+        "large": {
+          "width": 457,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/69/82/day-of-the-dead-sugar-skull-vector-22316982.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 3892631,
+      "title": "Sugar Skull Pattern - Day of the Dead",
+      "description": "Intricate sugar skull pattern inspired by Dia de los Muertos. Features ornate floral and swirl motifs, perfect for celebrating the Day of the Dead or Halloween.",
+      "license": "expanded",
+      "artist": "TopVectors",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 198,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/31/sugar-skull-pattern-day-of-the-dead-vector-3892631.jpg"
+        },
+        "large": {
+          "width": 395,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/31/sugar-skull-pattern-day-of-the-dead-vector-3892631.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 17699,
+      "title": "Sugar Skull Halloween",
+      "description": "Vibrant and playful sugar skull illustration with intricate floral patterns and a festive Halloween theme. Featuring bright pink, yellow, and black colors, perfect for celebrating Día de Muertos.",
+      "license": "expanded",
+      "artist": "stkobi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 251,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/76/99/sugar-skull-halloween-vector-17699.jpg"
+        },
+        "large": {
+          "width": 501,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/76/99/sugar-skull-halloween-vector-17699.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 52468458,
+      "title": "Watercolor Sugar Skull Pattern",
+      "description": "Vibrant watercolor sugar skull pattern with floral details, gold glitter accents, and splashes. Perfect for Day of the Dead or Halloween themes. Intricate and decorative.",
+      "license": "exclusive",
+      "artist": "Naila_Zeynalova",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/84/58/watercolor-sugar-skull-pattern-vector-52468458.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/84/58/watercolor-sugar-skull-pattern-vector-52468458.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 8103882,
+      "title": "Sugar Skull Collection",
+      "description": "A vibrant set of four decorative sugar skull illustrations inspired by the rich traditions of Día de los Muertos, celebrating the Day of the Dead. These intricate skulls capture the essence of Mexican folklore and are perfect for festive occasions.",
+      "license": "expanded",
+      "artist": "CarolineHan",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 183,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/82/sugar-skull-collection-vector-8103882.jpg"
+        },
+        "large": {
+          "width": 365,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/82/sugar-skull-collection-vector-8103882.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6122656,
+      "title": "Day of the Dead Skull Frame with Roses",
+      "description": "A vibrant frame featuring intricately detailed skull designs surrounded by roses. Perfect for celebrating Día de Muertos with a festive and colorful aesthetic.",
+      "license": "expanded",
+      "artist": "muchmania",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/26/56/day-of-the-dead-skull-frame-with-roses-vector-6122656.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/26/56/day-of-the-dead-skull-frame-with-roses-vector-6122656.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47800593,
+      "title": "Colorful Skull Day of the Dead Sugar Skulls",
+      "description": "Vibrant sugar skulls with speech bubbles, inspired by the traditional Mexican Day of the Dead (Dia de los Muertos). A festive and colorful pattern perfect for celebrations and decorations.",
+      "license": "expanded",
+      "artist": "ma_rish",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 372,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/05/93/colorful-skull-day-of-the-dead-sugar-skulls-vector-47800593.jpg"
+        },
+        "large": {
+          "width": 743,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/05/93/colorful-skull-day-of-the-dead-sugar-skulls-vector-47800593.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 6229206,
+      "title": "Day of the Dead Sugar Skull",
+      "description": "A striking black and white sugar skull, inspired by the Mexican Day of the Dead (Dia de los Muertos) tradition. Features intricate floral patterns and a macabre aesthetic. Perfect for tattoo designs or decorative purposes.",
+      "license": "expanded",
+      "artist": "Aleksandrs",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/92/06/day-of-the-dead-sugar-skull-vector-6229206.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/92/06/day-of-the-dead-sugar-skull-vector-6229206.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 4902160,
+      "title": "Mexican Day of the Dead Skull",
+      "description": "A striking black and white skull illustration inspired by the traditional Day of the Dead (Día de Muertos) celebrations in Mexico. Features intricate floral ornaments and a classic sugar skull aesthetic.",
+      "license": "expanded",
+      "artist": "Natality",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 221,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/21/60/mexican-day-of-the-dead-skull-vector-4902160.jpg"
+        },
+        "large": {
+          "width": 441,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/21/60/mexican-day-of-the-dead-skull-vector-4902160.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1660650,
+      "title": "Sugar Skull Music",
+      "description": "Vibrant and colorful sugar skull with musical elements, inspired by Day of the Dead traditions. A striking and festive motif.",
+      "license": "expanded",
+      "artist": "ches2013",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 210,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/06/50/sugar-skull-music-vector-1660650.jpg"
+        },
+        "large": {
+          "width": 419,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/06/50/sugar-skull-music-vector-1660650.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 4524424,
+      "title": "Day of the Dead Roses & Skull",
+      "description": "A striking vintage-style artwork featuring roses and skulls, celebrating the Day of the Dead. Evokes a classic Mexican aesthetic with a rich, symbolic feel.",
+      "license": "standard",
+      "artist": "Depiano",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/44/24/day-of-the-dead-roses-skull-vector-4524424.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/44/24/day-of-the-dead-roses-skull-vector-4524424.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27468403,
+      "title": "Sugar Skull Woman - Dia de los Muertos",
+      "description": "Vibrant illustration of a woman wearing traditional sugar skull makeup, inspired by Dia de los Muertos. Features a floral wreath and bold colors. Celebrates the Mexican holiday honoring deceased loved ones.",
+      "license": "expanded",
+      "artist": "ssstocker",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 236,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/84/03/sugar-skull-woman-dia-de-los-muertos-vector-27468403.jpg"
+        },
+        "large": {
+          "width": 471,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/84/03/sugar-skull-woman-dia-de-los-muertos-vector-27468403.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 33885755,
+      "title": "day dead sugar skull floral decoration",
+      "description": "day of the dead, sugar skull floral decoraiton, mexican celebration icon flat style vector illustration",
+      "license": "exclusive",
+      "artist": "Stockgiu",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 221,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/57/55/day-dead-sugar-skull-floral-decoration-vector-33885755.jpg"
+        },
+        "large": {
+          "width": 441,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/57/55/day-dead-sugar-skull-floral-decoration-vector-33885755.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 1038813,
+      "title": "Colorful Sugar Skulls with Floral Motifs",
+      "description": "Detailed sugar skull set featuring intricate floral patterns and hearts. Vibrant and festive, perfect for Día de Muertos celebrations.",
+      "license": "expanded",
+      "artist": "lapesnape",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/88/13/colorful-sugar-skulls-with-floral-motifs-vector-1038813.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/88/13/colorful-sugar-skulls-with-floral-motifs-vector-1038813.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 21791309,
+      "title": "Colorful Sugar Skull",
+      "description": "A vibrant and ornate sugar skull, reminiscent of Día de Muertos. This striking artwork features detailed patterns and a bright color palette, celebrating Mexican traditions.",
+      "license": "expanded",
+      "artist": "kiyanochka",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 172,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/13/09/colorful-sugar-skull-vector-21791309.jpg"
+        },
+        "large": {
+          "width": 343,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/13/09/colorful-sugar-skull-vector-21791309.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 29649342,
+      "title": "day skull head mascot logo",
+      "description": "Illustration of day skull head mascot logo",
+      "license": "exclusive",
+      "artist": "Platinum01",
+      "credits": 3,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/93/42/day-skull-head-mascot-logo-vector-29649342.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/93/42/day-skull-head-mascot-logo-vector-29649342.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 43842211,
+      "title": "dead king weed leaf skull silhouette",
+      "description": "Dead King Weed Leaf Skull Silhouette vector illustrations for your work logo, merchandise t-shirt, stickers and label designs, poster, greeting cards advertising business company or brands",
+      "license": "exclusive",
+      "artist": "ArtGraris",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/22/11/dead-king-weed-leaf-skull-silhouette-vector-43842211.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/22/11/dead-king-weed-leaf-skull-silhouette-vector-43842211.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22462425,
+      "title": "skull",
+      "description": "Skull Vector",
+      "license": "expanded",
+      "artist": "aminidewi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/24/25/skull-vector-22462425.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/24/25/skull-vector-22462425.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22462410,
+      "title": "skull",
+      "description": "Skull Vector",
+      "license": "expanded",
+      "artist": "aminidewi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/24/10/skull-vector-22462410.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/24/10/skull-vector-22462410.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 10821389,
+      "title": "human skulls and rose",
+      "description": "emblem with three human skulls and rose",
+      "license": "expanded",
+      "artist": "paseven",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 486,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/13/89/human-skulls-and-rose-vector-10821389.jpg"
+        },
+        "large": {
+          "width": 971,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/13/89/human-skulls-and-rose-vector-10821389.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 22462431,
+      "title": "skull",
+      "description": "Skull Vector Design",
+      "license": "expanded",
+      "artist": "aminidewi",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/24/31/skull-vector-22462431.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/24/31/skull-vector-22462431.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 14347387,
+      "title": "body tattoo icon flate single from",
+      "description": "Body tattoo icon flate. Single tattoo icon from the big studio flate",
+      "license": "expanded",
+      "artist": "Parapand",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/73/87/body-tattoo-icon-flate-single-from-vector-14347387.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/73/87/body-tattoo-icon-flate-single-from-vector-14347387.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 12689072,
+      "title": "mexican calavera skull icon in cartoon style",
+      "description": "Mexican calavera skull icon in cartoon style isolated on white background. Mexico country symbol vector illustration. - stock vector",
+      "license": "expanded",
+      "artist": "Parapand",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/90/72/mexican-calavera-skull-icon-in-cartoon-style-vector-12689072.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/90/72/mexican-calavera-skull-icon-in-cartoon-style-vector-12689072.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 12685740,
+      "title": "body tattoo icon cartoon single from",
+      "description": "Body tattoo icon cartoon. Single tattoo icon from the big studio cartoon. - stock vector",
+      "license": "expanded",
+      "artist": "Parapand",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/57/40/body-tattoo-icon-cartoon-single-from-vector-12685740.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/57/40/body-tattoo-icon-cartoon-single-from-vector-12685740.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 52860986,
+      "title": "lion head minimalist logo template design",
+      "description": "Lion Head minimalist Logo template Design",
+      "license": "expanded",
+      "artist": "prosundesign",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/09/86/lion-head-minimalist-logo-template-design-vector-52860986.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/09/86/lion-head-minimalist-logo-template-design-vector-52860986.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 54306230,
+      "title": "sugar skull outline for coloring page or tattoo",
+      "description": "Sugar skull outline for coloring page or tattoo design",
+      "license": "exclusive",
+      "artist": "ivandaariefb",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/62/30/sugar-skull-outline-for-coloring-page-or-tattoo-vector-54306230.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/62/30/sugar-skull-outline-for-coloring-page-or-tattoo-vector-54306230.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 54305862,
+      "title": "sugar skull with flower hat for day of the dead",
+      "description": "Sugar Skull with Flower Hat for Day of the Dead Illustration",
+      "license": "exclusive",
+      "artist": "ivandaariefb",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/58/62/sugar-skull-with-flower-hat-for-day-of-the-dead-vector-54305862.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/58/62/sugar-skull-with-flower-hat-for-day-of-the-dead-vector-54305862.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 51296407,
+      "title": "black silhouette tattoo of a woman dancer",
+      "description": "Vector illustration of a woman, dancer in black silhouette against a clean white background, capturing graceful forms of this vector.",
+      "license": "expanded",
+      "artist": "MutareHawk",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/64/07/black-silhouette-tattoo-of-a-woman-dancer-vector-51296407.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/64/07/black-silhouette-tattoo-of-a-woman-dancer-vector-51296407.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853966,
+      "title": "day of the dead seamless pattern handdrawn sugar",
+      "description": "Day of the Dead seamless pattern, handdrawn sugar skulls and roses background, vector illustration.",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/39/66/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853966.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/39/66/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853966.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 30378716,
+      "title": "sugar skull in monochrome",
+      "description": "Day of the dead floral sugar skull design in black and white.",
+      "license": "expanded",
+      "artist": "artshock",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/87/16/sugar-skull-in-monochrome-vector-30378716.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/87/16/sugar-skull-in-monochrome-vector-30378716.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27830221,
+      "title": "t-shirt and tattoo design template",
+      "description": "T-Shirt and Tattoo design template",
+      "license": "exclusive",
+      "artist": "deBob",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/02/21/t-shirt-and-tattoo-design-template-vector-27830221.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/02/21/t-shirt-and-tattoo-design-template-vector-27830221.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 27811267,
+      "title": "flock crows in skull cemetery",
+      "description": "Flock of crows in the skull cemetery",
+      "license": "exclusive",
+      "artist": "deBob",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/12/67/flock-crows-in-skull-cemetery-vector-27811267.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/12/67/flock-crows-in-skull-cemetery-vector-27811267.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853961,
+      "title": "day of the dead seamless pattern handdrawn sugar",
+      "description": "Day of the Dead seamless pattern, handdrawn sugar skulls and roses background, vector illustration.",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/39/61/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853961.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/39/61/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853961.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853954,
+      "title": "day of the dead seamless pattern handdrawn sugar",
+      "description": "Day of the Dead seamless pattern, handdrawn sugar skulls and roses background, vector illustration.",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/39/54/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853954.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/39/54/day-of-the-dead-seamless-pattern-handdrawn-sugar-vector-18853954.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853866,
+      "title": "day of the dead lettering quote with handdrawn",
+      "description": "Day of the Dead, lettering quote with handdrawn skull and roses, vintage label, typography design or t-shirt print, vector illustration",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/66/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853866.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/66/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853866.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853849,
+      "title": "day of the dead lettering quote with handdrawn",
+      "description": "Day of the Dead, lettering quote with handdrawn skull and roses, vintage label, typography design or t-shirt print, vector illustration",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/49/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853849.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/49/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853849.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 18853848,
+      "title": "day of the dead lettering quote with handdrawn",
+      "description": "Day of the Dead, lettering quote with handdrawn skull and roses, vintage label, typography design or t-shirt print, vector illustration",
+      "license": "expanded",
+      "artist": "SaintAntonio",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/48/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853848.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/48/day-of-the-dead-lettering-quote-with-handdrawn-vector-18853848.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 44792555,
+      "title": "skull kiss full of love at beach hand drawn",
+      "description": "Skull kiss full of love at beach. hand drawn illustration vector",
+      "license": "expanded",
+      "artist": "MixinStock",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 250,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/25/55/skull-kiss-full-of-love-at-beach-hand-drawn-vector-44792555.jpg"
+        },
+        "large": {
+          "width": 499,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/25/55/skull-kiss-full-of-love-at-beach-hand-drawn-vector-44792555.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47223845,
+      "title": "sugar skull day of the dead",
+      "description": "Hand drawing and make graphic vector.",
+      "license": "expanded",
+      "artist": "Jiewsurreal",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 181,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/38/45/sugar-skull-day-of-the-dead-vector-47223845.jpg"
+        },
+        "large": {
+          "width": 361,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/38/45/sugar-skull-day-of-the-dead-vector-47223845.jpg"
+        }
+      }
+    },
+    {
+      "art_id": 47162164,
+      "title": "fancy devil in love skull",
+      "description": "Art design fancy devil in love skull hand drawing and make graphic vector.",
+      "license": "expanded",
+      "artist": "Jiewsurreal",
+      "credits": 1,
+      "free": false,
+      "preview": {
+        "small": {
+          "width": 181,
+          "height": 250,
+          "url": "https://cdn.vectorstock.com/i/preview-1x/21/64/fancy-devil-in-love-skull-vector-47162164.jpg"
+        },
+        "large": {
+          "width": 361,
+          "height": 500,
+          "url": "https://cdn.vectorstock.com/i/preview-2x/21/64/fancy-devil-in-love-skull-vector-47162164.jpg"
+        }
+      }
+    }
+  ]
+}

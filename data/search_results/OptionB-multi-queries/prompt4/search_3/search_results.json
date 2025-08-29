@@ -1,0 +1,122 @@
+{
+  "timestamp": "20250829_175239",
+  "query": "geometric low-poly wolf head",
+  "parameters_used": {
+    "keywords": "geometric low-poly wolf head",
+    "score_popular": 8,
+    "order": "featured"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 19694110,
+        "title": "Low Poly Wolf Head",
+        "description": "A modern, geometric wolf head illustration created with a low poly style. Perfect for abstract art, wildlife themes, or minimalist designs.",
+        "license": "exclusive",
+        "artist": "Greens87",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/41/10/low-poly-wolf-head-vector-19694110.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/41/10/low-poly-wolf-head-vector-19694110.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 17425707,
+        "title": "Low Poly Wolf Head",
+        "description": "Modern geometric wolf head illustration in a low poly style. Clean, minimalist, and abstract representation of a wolf's head. Perfect for creative projects and digital art.",
+        "license": "exclusive",
+        "artist": "Greens87",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/57/07/low-poly-wolf-head-vector-17425707.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/57/07/low-poly-wolf-head-vector-17425707.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 5200449,
+        "title": "Low Poly Wolf Head",
+        "description": "A modern, geometric low polygon wolf head illustration in a trendy style. Perfect for logos, icons, and branding.",
+        "license": "expanded",
+        "artist": "DianaHlevnjak",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/04/49/low-poly-wolf-head-vector-5200449.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/04/49/low-poly-wolf-head-vector-5200449.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 17358386,
+        "title": "Low Poly Wolf Head",
+        "description": "A stylized wolf head created using a low polygonal art style, featuring geometric shapes and a modern aesthetic.",
+        "license": "expanded",
+        "artist": "AvPshka",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 206,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/83/86/low-poly-wolf-head-vector-17358386.jpg"
+          },
+          "large": {
+            "width": 411,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/83/86/low-poly-wolf-head-vector-17358386.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 42571265,
+        "title": "Low Poly Wolf Head Logo",
+        "description": "A modern logo featuring a wolf's head rendered in a low poly art style. Geometric shapes create a stylized and impactful representation of a wolf, suitable for branding and various applications.",
+        "license": "exclusive",
+        "artist": "MunlisCrtv",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/12/65/low-poly-wolf-head-logo-vector-42571265.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/12/65/low-poly-wolf-head-logo-vector-42571265.jpg"
+          }
+        }
+      }
+    ],
+    "total": 5,
+    "page": 1,
+    "pages": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": "20250829_175424",
+  "query": "angry bull graphic",
+  "parameters_used": {
+    "keywords": "angry bull graphic",
+    "category": "t-shirt-graphics",
+    "cmyk_only": true,
+    "color": "#FF0000",
+    "color_threshold": 7,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 30088234,
+        "title": "red origami bull",
+        "description": "Geometric illustration of red bull origami style design.",
+        "license": "expanded",
+        "artist": "artshock",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 378,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/82/34/red-origami-bull-vector-30088234.jpg"
+          },
+          "large": {
+            "width": 755,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/82/34/red-origami-bull-vector-30088234.jpg"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "pages": 1
+  }
+}

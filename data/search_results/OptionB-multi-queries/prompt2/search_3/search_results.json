@@ -1,0 +1,80 @@
+{
+  "timestamp": "20250829_175208",
+  "query": "retro 70s sunset with palm trees",
+  "parameters_used": {
+    "keywords": "retro 70s sunset with palm trees",
+    "score_popular": 8,
+    "order": "featured"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 50432165,
+        "title": "Retro Palm Tree Sunset Collection",
+        "description": "A vibrant collection of palm tree silhouettes and sunset gradients, evoking a nostalgic 70s and 80s vibe. Perfect for branding, website backgrounds, or creative projects seeking a tropical, retro aesthetic.",
+        "license": "exclusive",
+        "artist": "andypp",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/21/65/retro-palm-tree-sunset-collection-vector-50432165.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/21/65/retro-palm-tree-sunset-collection-vector-50432165.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 40280876,
+        "title": "Retro Sunset Collection",
+        "description": "A vibrant collection of retro sunsets, perfect for banners, prints, or apparel. Features mountains, palm trees, birds, and desert landscapes in a nostalgic color palette reminiscent of the 70s and 80s. Ideal for summer-themed projects.",
+        "license": "expanded",
+        "artist": "Remo_Designer",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 323,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/08/76/retro-sunset-collection-vector-40280876.jpg"
+          },
+          "large": {
+            "width": 645,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/08/76/retro-sunset-collection-vector-40280876.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 53829591,
+        "title": "Retro Palm Sunset Logos",
+        "description": "A vibrant collection of 70s-style palm tree sunset logos. Featuring striped backgrounds and silhouettes, evoking a tropical paradise and summer vibes. Perfect for branding and creative projects.",
+        "license": "exclusive",
+        "artist": "Olga_Dykun",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 614,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/95/91/retro-palm-sunset-logos-vector-53829591.jpg"
+          },
+          "large": {
+            "width": 1227,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/95/91/retro-palm-sunset-logos-vector-53829591.jpg"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "page": 1,
+    "pages": 1
+  }
+}

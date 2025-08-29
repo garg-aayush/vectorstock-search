@@ -1,0 +1,39 @@
+{
+  "timestamp": "20250829_175310",
+  "query": "GOOD VIBES lettering outline",
+  "parameters_used": {
+    "keywords": "GOOD VIBES lettering outline",
+    "category": "silhouettes",
+    "svg_only": true,
+    "order": "latest"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 46467435,
+        "title": "good vibes only typo print design",
+        "description": "Good Vibes Only Typo print design",
+        "license": "exclusive",
+        "artist": "ArunAbhi",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 383,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/74/35/good-vibes-only-typo-print-design-vector-46467435.jpg"
+          },
+          "large": {
+            "width": 765,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/74/35/good-vibes-only-typo-print-design-vector-46467435.jpg"
+          }
+        }
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "pages": 1
+  }
+}

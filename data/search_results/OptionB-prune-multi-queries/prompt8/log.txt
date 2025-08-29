@@ -1,0 +1,72 @@
+============================================================
+DATA ANALYSIS
+============================================================
+Total artworks available: 101
+Artworks in multiple folders: 0
+Artworks in single folders: 101
+
+Distribution across search folders:
+  search_5: 100 artworks
+  search_6: 1 artworks
+
+Single folder distribution:
+  search_5: 100 artworks
+  search_6: 1 artworks
+
+============================================================
+SUBSET CREATION LOGIC
+============================================================
+Step 1: Selected 0 multi-folder artworks
+Remaining slots to fill: 100
+
+Step 2: Ensuring minimum 10 per search folder
+Current representation from multi-folder artworks:
+  search_1: 0 artworks
+  search_2: 0 artworks
+  search_3: 0 artworks
+  search_4: 0 artworks
+  search_5: 0 artworks
+  search_6: 0 artworks
+Added 10 artworks from search_5 to meet minimum requirement
+Added 1 artworks from search_6 to meet minimum requirement
+
+After meeting minimum requirements:
+Selected artworks: 11
+Remaining slots: 89
+
+Step 3: Filling remaining 89 slots proportionally
+Total remaining artworks available: 90
+Added 89 artworks from search_5 (proportional)
+
+Step 5: Shuffling the final selection...
+
+============================================================
+FINAL SUBSET SUMMARY
+============================================================
+Target size: 100
+Actual selected artworks: 100
+Final distribution:
+  search_1: 0 artworks
+  search_2: 0 artworks
+  search_3: 0 artworks
+  search_4: 0 artworks
+  search_5: 99 artworks
+  search_6: 1 artworks
+
+Selection reasons:
+  proportional: 89 artworks
+  min_requirement: 11 artworks
+✅ Subset CSV saved to: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt8/prompt8_subset_100_final.csv
+
+Creating subset JSON from 100 selected artworks...
+✅ Subset JSON saved to: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt8/prompt8_subset_100_final.json
+   Original artworks: 101
+   Subset artworks: 100
+   Found: 100, Missing: 0
+
+============================================================
+PROCESS COMPLETED SUCCESSFULLY!
+============================================================
+📊 CSV subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt8/prompt8_subset_100_final.csv
+📄 JSON subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt8/prompt8_subset_100_final.json
+📄 JSON subset: /Users/aayushgarg/JIFFY/JED-433-VectorStockSearch/data/search_results/OptionB-prune-multi-queries/prompt8/prompt8_subset_100_final.json

@@ -1,0 +1,81 @@
+{
+  "timestamp": "20250829_175325",
+  "query": "skull outline with flowers",
+  "parameters_used": {
+    "keywords": "skull outline with flowers",
+    "category": "silhouettes",
+    "svg_only": true,
+    "order": "latest"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 54306230,
+        "title": "sugar skull outline for coloring page or tattoo",
+        "description": "Sugar skull outline for coloring page or tattoo design",
+        "license": "exclusive",
+        "artist": "ivandaariefb",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/62/30/sugar-skull-outline-for-coloring-page-or-tattoo-vector-54306230.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/62/30/sugar-skull-outline-for-coloring-page-or-tattoo-vector-54306230.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 54305862,
+        "title": "sugar skull with flower hat for day of the dead",
+        "description": "Sugar Skull with Flower Hat for Day of the Dead Illustration",
+        "license": "exclusive",
+        "artist": "ivandaariefb",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/58/62/sugar-skull-with-flower-hat-for-day-of-the-dead-vector-54305862.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/58/62/sugar-skull-with-flower-hat-for-day-of-the-dead-vector-54305862.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 51296407,
+        "title": "black silhouette tattoo of a woman dancer",
+        "description": "Vector illustration of a woman, dancer in black silhouette against a clean white background, capturing graceful forms of this vector.",
+        "license": "expanded",
+        "artist": "MutareHawk",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/64/07/black-silhouette-tattoo-of-a-woman-dancer-vector-51296407.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/64/07/black-silhouette-tattoo-of-a-woman-dancer-vector-51296407.jpg"
+          }
+        }
+      }
+    ],
+    "total": 3,
+    "page": 1,
+    "pages": 1
+  }
+}

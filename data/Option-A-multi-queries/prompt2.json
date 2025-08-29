@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Baseline — exact keywords",
+        "keywords": "retro 70s sunset with palm trees"
+    },
+    {
+        "name": "Transparent PNG — trending",
+        "keywords": "retro 70s sunset with palm trees",
+        "png_only": true,
+        "pod_first": true,
+        "order": "trending"
+    },
+    {
+        "name": "Popular safe default",
+        "keywords": "retro 70s sunset with palm trees",
+        "score_popular": 8,
+        "order": "featured"
+    },
+    {
+        "name": "Logo/SVG — best match",
+        "keywords": "vintage palm sunset badge",
+        "category": "logos",
+        "svg_only": true,
+        "order": "bestmatch"
+    },
+    {
+        "name": "Minimal line art",
+        "keywords": "sunset palm silhouette",
+        "category": "silhouettes",
+        "svg_only": true,
+        "order": "latest"
+    },
+    {
+        "name": "CMYK emphasis with color",
+        "keywords": "tropical retro sunset design",
+        "category": "t-shirt-graphics",
+        "cmyk_only": true,
+        "color": "#FF6F61",
+        "color_threshold": 7,
+        "order": "bestmatch"
+    }
+]

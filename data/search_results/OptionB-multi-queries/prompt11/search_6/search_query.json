@@ -1,0 +1,5 @@
+{
+  "timestamp": "20250829_175424",
+  "url": "https://api.vectorstock.com/p1/search?keywords=angry bull graphic&category=t-shirt-graphics&cmyk_only=True&color=#FF0000&color_threshold=7&order=bestmatch",
+  "method": "GET"
+}

@@ -1,0 +1,59 @@
+{
+  "timestamp": "20250829_175310",
+  "query": "bold typography \"GOOD VIBES\"",
+  "parameters_used": {
+    "keywords": "bold typography \"GOOD VIBES\"",
+    "score_popular": 8,
+    "order": "featured"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 20865281,
+        "title": "Retro 3D Display Font - Vibrant Vibes",
+        "description": "Bold and dynamic 3D typeface with a retro aesthetic. Ideal for posters, placards, and creating eye-catching typography. Features a vibrant color palette and a stylish, slightly angled presentation.",
+        "license": "expanded",
+        "artist": "revelstockart",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 375,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/52/81/retro-3d-display-font-vibrant-vibes-vector-20865281.jpg"
+          },
+          "large": {
+            "width": 749,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/52/81/retro-3d-display-font-vibrant-vibes-vector-20865281.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 54851518,
+        "title": "Retro Good Vibes Text Style",
+        "description": "A vibrant, retro-inspired text style effect with bold colors and a dynamic, good vibes aesthetic. Perfect for headlines, posters, and branding.",
+        "license": "exclusive",
+        "artist": "Rtn_Studio",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 483,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/15/18/retro-good-vibes-text-style-vector-54851518.jpg"
+          },
+          "large": {
+            "width": 965,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/15/18/retro-good-vibes-text-style-vector-54851518.jpg"
+          }
+        }
+      }
+    ],
+    "total": 2,
+    "page": 1,
+    "pages": 1
+  }
+}

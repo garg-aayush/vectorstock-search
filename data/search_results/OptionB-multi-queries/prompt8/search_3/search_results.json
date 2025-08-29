@@ -1,0 +1,16 @@
+{
+  "timestamp": "20250829_175336",
+  "query": "astronaut holding a planet balloon",
+  "parameters_used": {
+    "keywords": "astronaut holding a planet balloon",
+    "score_popular": 8,
+    "order": "featured"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "20250829_124214",
+  "query": "astronaut holding a planet balloon",
+  "parameters_used": {
+    "keywords": "astronaut holding a planet balloon"
+  },
+  "results": {
+    "success": true,
+    "images": [],
+    "total": 0,
+    "page": 1,
+    "pages": 1
+  }
+}

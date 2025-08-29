@@ -1,0 +1,102 @@
+{
+  "timestamp": "20250829_175412",
+  "query": "hand-drawn seamless art",
+  "parameters_used": {
+    "keywords": "hand-drawn seamless art",
+    "category": "icon-emblem-(single)",
+    "cmyk_only": true,
+    "order": "bestmatch"
+  },
+  "results": {
+    "success": true,
+    "images": [
+      {
+        "art_id": 43987283,
+        "title": "eye with floral elements",
+        "description": "Vector doodle tribal eye with floral elements",
+        "license": "exclusive",
+        "artist": "galina",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 495,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/72/83/eye-with-floral-elements-vector-43987283.jpg"
+          },
+          "large": {
+            "width": 989,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/72/83/eye-with-floral-elements-vector-43987283.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 48229242,
+        "title": "evil eye",
+        "description": "Evil eye seamless pattern. Turkish eye bead background. Seamless pattern",
+        "license": "exclusive",
+        "artist": "galina",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/92/42/evil-eye-vector-48229242.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/92/42/evil-eye-vector-48229242.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 51280815,
+        "title": "greeting floral card",
+        "description": "Greeting card. Bloo. Vintage floral illustration. Blue and white with bird",
+        "license": "exclusive",
+        "artist": "galina",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 194,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/08/15/greeting-floral-card-vector-51280815.jpg"
+          },
+          "large": {
+            "width": 387,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/08/15/greeting-floral-card-vector-51280815.jpg"
+          }
+        }
+      },
+      {
+        "art_id": 47347842,
+        "title": "arabic hamsa background",
+        "description": "Seamless arabic hamsa hand of fatima illustration background pattern in vector",
+        "license": "exclusive",
+        "artist": "galina",
+        "credits": 1,
+        "free": false,
+        "preview": {
+          "small": {
+            "width": 250,
+            "height": 250,
+            "url": "https://cdn.vectorstock.com/i/preview-1x/78/42/arabic-hamsa-background-vector-47347842.jpg"
+          },
+          "large": {
+            "width": 499,
+            "height": 500,
+            "url": "https://cdn.vectorstock.com/i/preview-2x/78/42/arabic-hamsa-background-vector-47347842.jpg"
+          }
+        }
+      }
+    ],
+    "total": 4,
+    "page": 1,
+    "pages": 1
+  }
+}
